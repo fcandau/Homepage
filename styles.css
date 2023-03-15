@@ -38,7 +38,7 @@ nav ul li a {
 nav ul li a:hover {
   color: #fff;
 }
-
+/* Replace the existing .banner class with this one */
 .banner {
   background-image: url('pyrenees.jpg');
   background-position: center;
@@ -46,12 +46,12 @@ nav ul li a:hover {
   background-size: cover;
   height: 300px;
   width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
 }
 
+/* Add the new .content class */
+.content {
+  padding: 1rem;
+}
 /* Add any additional styles needed for your website below */
 
 section {
