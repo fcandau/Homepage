@@ -60,6 +60,7 @@ nav ul li a:hover {
   background-size: cover;
   height: 300px;
   width: 100%;
+position: relative; 
 }
 
 /* Add the new .content class */
