@@ -66,10 +66,16 @@ position: relative;
 
 /* Add the new .content class */
 .content {
-  padding: 5rem;
-  text-align: justify;
-  margin: 50px;
+  padding: 1rem;
 }
+
+.post {
+  padding: 1rem;
+  text-align: justify;
+  padding-left: 18rem;
+  padding-right: 18rem;
+}
+
 /* Add any additional styles needed for your website below */
 
 
