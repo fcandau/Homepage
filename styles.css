@@ -60,13 +60,13 @@ nav ul li a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 300px;
+  height: 500px;
   width: 100%;
 position: relative; 
 }
 .photo-credit {
   position: absolute;
-  bottom: 250px; /* use a value greater than 0 to push the text down */
+  bottom: 0px; /* use a value greater than 0 to push the text down */
   right: 0px; /* position the text on the bottom-right corner */
   font-size: 0.8rem;
   color: white;
