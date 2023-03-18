@@ -66,8 +66,8 @@ position: relative;
 }
 .photo-credit {
   position: absolute;
-  bottom: 0;
-  left: 0;
+  bottom: 250px; /* use a value greater than 0 to push the text down */
+  right: 0px; /* position the text on the bottom-right corner */
   font-size: 0.8rem;
   color: white;
   padding: 5px;
