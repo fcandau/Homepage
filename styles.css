@@ -3,6 +3,21 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+a {
+  color: rgb(60%, 0%, 0%);
+}
+
+a:visited {
+  color: rgb(60%, 0%, 0%);
+}
+
+a:hover {
+  color: rgb(60%, 0%, 0%);
+}
+
+a:active {
+  color: rgb(60%, 0%, 0%);
+}
 
 header {
   background-color: white;
