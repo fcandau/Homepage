@@ -1,7 +1,8 @@
 /* General styles */
 body {
-  font-family: 'Palatino', serif;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
+
 
 a {
   color: rgb(60%, 0%, 0%);
@@ -93,9 +94,9 @@ position: relative;
 }
 
 .post {
-  padding: 2rem 1.5rem;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 2rem auto;
+  padding: 1rem;
   text-align: justify;
 }
 
@@ -135,9 +136,10 @@ p {
 }
 
 .image img {
+  display: block;
+  margin: 1rem auto;
   max-width: 100%;
   height: auto;
-  margin: 1rem 0;
 }
 
 footer {
