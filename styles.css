@@ -1,8 +1,8 @@
 /* General styles */
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Palatino', serif;
 }
+
 a {
   color: rgb(60%, 0%, 0%);
 }
@@ -93,21 +93,31 @@ position: relative;
 }
 
 .post {
-  padding: 1rem;
+  padding: 2rem 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
   text-align: justify;
-  padding-left: 18rem;
-  padding-right: 18rem;
 }
 
 /* Add any additional styles needed for your website below */
 
-
-section {
-  padding-left: 2rem;
+h1, h2 {
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
-section h2 {
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
   margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 .publications {
@@ -122,9 +132,13 @@ section h2 {
 
 .image {
   text-align: center;
-  max-width: 1000px;
 }
 
+.image img {
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
 
 footer {
   background-color: #333;
