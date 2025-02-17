@@ -58,15 +58,28 @@ nav ul li a:hover {
 
 /* Add the new .content class */
 .content {
-  padding: 1rem;
+  max-width: 1000px;
+  padding-left: 5rem;
 }
 
 .post {
-  max-width: 800px;
+  max-width: 600px;
   margin: 2rem auto;
   padding: 1rem;
   text-align: justify;
 }
+
+.container {
+  display: flex; /* Use flexbox for a responsive layout */
+  justify-content: space-between; /* Space between the columns */
+  margin: 20px; /* Outer margin for the container */
+}
+
+.column {
+  width: 48%; /* Each column takes up nearly half of the container */
+  padding: 10px; /* Padding inside each column */
+}
+
 
 /* Add any additional styles needed for your website below */
 
@@ -81,8 +94,18 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 2rem; /* Size of the title */
+    margin: 2rem 0; /* Top and bottom margin of 2rem */
+    margin-left: -3rem; /* Pull the title left to counter the parent's margin */
+    margin-right: -3rem; /* Pull the title right to counter the parent's margin */
 }
+
+h3 {
+  font-size: 1.5rem; /* Size of the title */
+    margin: 2rem 0; /* Top and bottom margin of 2rem */
+    margin-left: 2rem; 
+}
+
 
 p {
   margin-bottom: 1rem;
@@ -90,8 +113,10 @@ p {
 }
 
 .publications {
+  max-width: 1000px;
+  padding-left: 5rem;
+  text-align: justify;
   list-style-type: disc;
-  padding-left: 1.5rem;
   margin-bottom: 1rem;
 }
 
