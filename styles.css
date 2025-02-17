@@ -54,40 +54,8 @@ nav ul li a {
 nav ul li a:hover {
   color: #fff;
 }
-/* Replace the existing .banner class with this one */
-.banner-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-  line-height: 1.5;
-}
 
-.banner-text h1 {
-  font-size: 3rem;
-  margin-bottom: 0;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-  text-shadow: -3px -3px 1px rgba(0, 0, 0, 0.5);
-}
-.banner {
-  background-image: url('Home/pyrenees.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 500px;
-  width: 100%;
-position: relative; 
-}
-.photo-credit {
-  position: absolute;
-  bottom: 0px; /* use a value greater than 0 to push the text down */
-  right: 0px; /* position the text on the bottom-right corner */
-  font-size: 0.8rem;
-  color: white;
-  padding: 5px;
-}
+
 /* Add the new .content class */
 .content {
   padding: 1rem;
