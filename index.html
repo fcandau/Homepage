@@ -1,68 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Palatino+Linotype:wght@700&display=swap" rel="stylesheet">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fabien Candau</title>
-<link rel="stylesheet" href="styles.css?v=2" />
+  <title>Fabien Candau — Economist</title>
+  <meta name="description" content="Fabien Candau, professor of economics at UPPA (UMR TREE). Research on environmental economics, economic geography, and international trade.">
+  <meta name="keywords" content="Fabien Candau, economics, UPPA, environmental economics, economic geography, international trade, pollution havens, climate change, agriculture">
+  <meta name="author" content="Fabien Candau">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Palatino+Linotype:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
 <header>
   <h1>Fabien Candau</h1>
   <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="publication.html">Publication</a></li>
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="publication.html">Publications</a></li>
       <li><a href="media.html">Media</a></li>
-      <li><a href="course.html">Course</a></li>
+      <li><a href="course.html">Courses</a></li>
     </ul>
   </nav>
 </header>
-<!-- Add the .content div wrapper -->
- 
-    <div class="container">
-      <div class="column">
-          <p>Welcome to my Website! I'm professor of economics at UPPA (UMR TREE) in France.</p>
-          <p>I work on environmental issues often related to globalization.</p>
-          <p>I am also interested in various other topics in agricultural economics and economic geography.</p>
-      </div>
-      <div class="column">
-          <p>Here my <a href="https://github.com/fcandau/Homepage/blob/main/Home/cv2023.pdf" target="_blank">CV</a></p>
-          <p>Contact information: Av Poplawski UPPA, 64000 Pau</p>
-          <p>fabien.candau@univ-pau.fr</p>
-      </div>
-  </div> 
-    
-      <h3><a>Work in Progress below, comments welcomed!</a></h3>
-  <div class="container">
-    <div class="column">
-<h3>Environmental Economics</h3>
-<li>
-How a Sustainable Maritime Traffic Can Shape the California's Kelp Forests.
-<p>Co-authored with Florian Lafferrere.</p>
-<a href="https://github.com/fcandau/Homepage/blob/main/Research/DiD11.pdf" target="_blank">Working paper</a>
-</li>
-<li>
-Invasive Species and Ballast Water From the United States
-<p>Co-authored with Florian Lafferrere and Julie Schlick.</p>
-<a href="https://github.com/fcandau/Homepage/blob/main/Research/BWE_IAS.pdf" target="_blank">Preliminary work</a>
-</li>
-</div>
 
-<div class="column">
-<h3>Economic Geography</h3>
-<li>
-The Effect of High-Speed Internet on Working from Home. 2025.
-<a href="https://github.com/fcandau/Homepage/blob/main/Research/High_Speed_Internet_Remote_Work.pdf" target="_blank">Working Paper</a>
-<a href="https://github.com/fcandau/Homepage/blob/main/Research/HSI_all.zip" target="_blank">Matlab and R</a>
-<p>Co-authored with Lauriane Belloy and Younoussa Abdoulhazis-Oumarou.</p>
- </li>
- 
-</div>
-  
-  
-  <script src="scripts.js"></script>
+<main>
+  <div class="home-intro">
+    <div class="bio">
+      <p>Welcome! I am a professor of economics at <a href="https://tree.univ-pau.fr/" target="_blank">UPPA (UMR TREE)</a> in France.</p>
+      <p>My research started in New Economic Geography, bridging urban and international economics. I have since worked on urban topics (social housing, local human capital, telecommuting), international trade (trade policy, tax competition, transport costs), and more recently environmental economics (pollution havens, climate change, water resources, marine ecosystems).</p>
+    </div>
+    <div class="contact">
+      <p><a href="Home/cv2023.pdf">Curriculum Vitae</a></p>
+      <p>Av. Poplawski, UPPA<br>64000 Pau, France</p>
+      <p><a href="mailto:fabien.candau@univ-pau.fr">fabien.candau@univ-pau.fr</a></p>
+      <p><a href="https://scholar.google.com/citations?user=Cy_hOg0AAAAJ" target="_blank">Google Scholar</a></p>
+    </div>
+  </div>
+
+  <h2>Work in Progress</h2>
+
+  <div class="wip-columns">
+    <div class="wip-col">
+      <h3>Environmental Economics</h3>
+      <ul class="paper-list">
+        <li>
+          <span class="title">The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests</span>
+          <p class="coauthors">With Florian Lafferrere.</p>
+          <p class="links"><a href="Research/DiD11.pdf">Working paper</a></p>
+        </li>
+        <li>
+          <span class="title">Invasive Species and Ballast Water From the United States</span>
+          <p class="coauthors">With Florian Lafferrere and Julie Schlick.</p>
+          <p class="links"><a href="Research/BWE_IAS.pdf">Preliminary work</a></p>
+        </li>
+      </ul>
+    </div>
+    <div class="wip-col">
+      <h3>Economic Geography</h3>
+      <ul class="paper-list">
+        <li>
+          <span class="title">The Effect of High-Speed Internet on Working from Home</span> (2025)
+          <p class="coauthors">With Lauriane Belloy and Younoussa Abdoulhazis-Oumarou.</p>
+          <p class="links">
+            <a href="Research/High_Speed_Internet_Remote_Work.pdf">Working paper</a>
+            <a href="Research/HSI_all.zip">Matlab and R code</a>
+          </p>
+        </li>
+        <li>
+          <span class="title">Labor Adjustment Costs in French Viticulture: Evidence from Trade-Cost Shocks</span>
+          <p class="coauthors">With Laure Latruffe.</p>
+          <p class="links"><a href="Research/Adjust_L_Demand.pdf">Working paper</a></p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>&copy; 2025 Fabien Candau</p>
+</footer>
+
 </body>
 </html>
