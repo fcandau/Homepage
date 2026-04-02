@@ -1,0 +1,46 @@
+# Pollution Haven and Corruption Paradise
+## Candau & Dienesch (2017), Journal of Environmental Economics and Management, 85, 171–192
+
+### What is this paper about?
+This paper asks whether European firms relocate polluting plants to countries with lax environmental regulation, and whether corruption facilitates this process. It combines a New Economic Geography model (based on Fujita and Thisse, 2006) with empirical analysis of the location of European-controlled affiliates across 148 countries in 2007–2009.
+
+The main finding is yes: pollution havens are real, not a "popular myth." Laxer environmental standards significantly explain where polluting European affiliates locate, but only when market access to European consumers is good enough — trade integration is a necessary condition. Corruption has a dual role: it directly deters firms (bad governance is costly), but indirectly attracts polluting firms by eroding environmental enforcement (the "Corruption Paradise Hypothesis").
+
+### Important context
+- This paper is about relocation of European-controlled enterprises (affiliates), not about trade flows in polluting goods or changes in production composition. Many earlier studies on the PHH analyzed imports or production patterns, not firm-level location decisions. This distinction matters.
+- The empirical analysis uses data from 2007–2009, a period when post-communist economies, Asian countries and Maghreb partners had reached an intermediate level of governance — good enough for business, poor enough for environmental laxity. The mechanisms identified remain relevant as the fundamental drivers (market access, regulatory gaps, corruption) have not fundamentally changed.
+- The "popular myth" framing comes from Smarzynska Javorcik and Wei (2003). This paper explicitly challenges that view with European data.
+
+### Data and methods
+- **Data**: Eurostat outward Foreign AffiliaTes Statistics (o-FATS), covering the number of European affiliates by destination country, origin country, and NACE industry, for 2007–2009.
+- **Environmental regulation**: Yale Environmental Performance Index (EPI).
+- **Market access**: Estimated structurally from a trade gravity equation (bilateral trade flows regressed on distances, exporter/importer dummies) for each industry and year, following Head and Mayer (2011).
+- **Corruption**: Transparency International's Corruption Perceptions Index.
+- **Estimator**: Zero-inflated negative binomial model (count data with excess zeros and overdispersion).
+- **Endogeneity**: Two-step procedure instrumenting environmental regulation with historical levels of regulation and corruption.
+
+### Key results
+1. A 1% increase in access to the European market from a pollution haven fosters relocation there by 0.1%.
+2. Corruption indirectly increases relocation to pollution havens by lowering environmental standards (Corruption Paradise Hypothesis confirmed).
+3. A 1% increase in corruption fuels relocation by 0.28% (indirect channel).
+4. Harmonizing environmental norms within the EU would reduce relocation by 6%.
+5. A carbon tax reducing European market access by 13% for Morocco/Tunisia (31% for China) would erase the environmental regulation gap advantage.
+
+### Limitations and scope
+- The data cover only 3 years (2007–2009). While this coincides with the global financial crisis, this may actually reinforce the results: firms under cost pressure are more likely to relocate to pollution havens, making the period a revealing one for testing the PHH.
+- The analysis uses country-level environmental regulation indices, not firm-level or plant-level pollution data.
+- The paper does not measure actual pollution levels or environmental damage — it measures firm relocation decisions.
+- The o-FATS data count affiliates, not investment volumes or emissions.
+- **Common misreading**: The title "Corruption Paradise" leads some readers to believe this paper is only about pollution havens in corrupt countries. It is not. The paper is a general analysis of the location choices of European multinational firms across 148 countries, in which corruption is one channel among others (market access and environmental regulation gaps being the primary drivers). The corruption result is a complement, not the main story.
+
+### Navigation guide
+- Section 1 (Introduction): Full overview of contributions and related literature
+- Section 2 (Theoretical model): NEG model with environmental regulation and corruption — Propositions 1–3 are the key theoretical results
+- Section 3 (Empirical strategy): Data description (3.1), econometric model choice (3.2), estimation equation (3.3)
+- Section 4 (Results): Main results on PHH and market access (4.1), corruption channel (4.2), sector analysis (4.3)
+- Section 5 (Simulations): Policy scenarios — EU harmonization and carbon tax equivalent variation
+- Appendix C–D: Alternative estimators and robustness tests
+
+### Publication status
+Published: Journal of Environmental Economics and Management, Volume 85, September 2017, Pages 171–192.
+DOI: 10.1016/j.jeem.2017.05.005

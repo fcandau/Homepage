@@ -1,0 +1,46 @@
+# Promoting Social Housing: Insights from Redevelopment Policies in Paris
+## Belloy & Candau (2025), forthcoming in Journal of Housing Economics
+
+### What is this paper about?
+This paper evaluates whether redevelopment policies in Paris — laws that incentivize converting offices and commercial spaces into social housing — have succeeded in promoting affordable housing in the city center. Three successive laws were passed in 2009, 2011, and 2014, each with a different spatial scope for the compensation mechanism.
+
+The main finding is that these policies have had very limited effects. Only the most restrictive 2009 law, which required compensation within each district, significantly stimulated social housing conversion in the center of Paris. The 2011 and 2014 laws, which relaxed the spatial constraint by allowing compensation in other districts, had effects only at the periphery of the compensation area, not in the center where income segregation is most entrenched. Overall, less than 4,000 units were converted to social housing due to these compensation laws.
+
+### Important context
+- This paper is about redevelopment (converting existing offices/commercial units into housing), not about new construction. In the center of Paris where new construction is extremely limited, redevelopment represents more than 80% of social housing supply.
+- The three laws share the same basic mechanism: converting private housing into commercial use (1 m²) must be compensated by converting commercial space into housing (2 m²). But if the conversion goes to social housing instead of private, the ratio is only 1:1 — creating an economic incentive for social housing.
+- The key difference between the three laws is spatial: the 2009 law required compensation within the same district, the 2011 law allowed compensation across all of Paris, the 2014 law created an intermediate zone. This spatial dimension is central to understanding why the laws had different effects.
+- Paris has a long history of wealth concentration in its center. These laws were part of a broader political agenda following the 2008 re-election of a socialist mayor who promised 40,000 additional social housing units.
+
+### Data and methods
+- **Data**: Administrative records on all conversions (office-to-housing and housing-to-office) at the neighborhood level in Paris, 2006–2019.
+- **Empirical strategy 1 (border effects)**: Spatial difference-in-discontinuity design using PPML estimator, comparing neighborhoods on each side of the compensation area boundary (300m and 600m bandwidths, with uniform, Epanechnikov, and triangular kernel weights).
+- **Empirical strategy 2 (center effects)**: Synthetic Difference-in-Differences (SDID) following Arkhangelsky et al. (2021), building synthetic controls for treated central districts from peripheral districts.
+- **Robustness**: Placebo tests, alternative bandwidths, coverage error and MSE optimal bandwidths, nonparametric synthetic control (Cerulli 2020), classical DiD, extended time periods (2000–2019).
+
+### Key results
+1. The 2009 law (most restrictive, within-district compensation) significantly increased social housing conversions in the center of Paris.
+2. The 2011 law (least restrictive, city-wide compensation) and the 2014 law (intermediate) had no significant effect on social housing in the center.
+3. The 2011 and 2014 laws had effects only at the border/periphery of the compensation area — not where income segregation is most severe.
+4. Overall, less than 4,000 units were converted to social housing due to compensation laws over the entire period — far below the political objective of 40,000 additional units.
+5. The spatial constraint matters: requiring compensation locally (within the same district) is more effective at promoting social diversity in high-demand areas than allowing it elsewhere.
+
+### Limitations and scope
+- The paper has internal validity (causal identification within Paris) but limited external validity. The specific institutional context of Paris (extremely constrained land, high prices, particular regulatory framework) may not generalize to other cities.
+- The paper measures conversions, not welfare effects on residents or long-term segregation outcomes.
+- The pre-treatment period (2006–2009) is relatively short for the SDID approach, though results are robust when extended to 2000.
+
+### Navigation guide
+- Section 1 (Introduction): Policy context, contribution, summary of results
+- Section 2 (Background): Description of the three laws (2.1–2.2), price and housing share data (2.3), the compensation areas (2.4)
+- Section 3 (Effects at the dividing line): Spatial difference-in-discontinuity design and results at the border of the compensation zone
+- Section 4 (Effects in the heart of Paris): SDID approach and results in the center
+- Section 5 (Conclusion): Summary and policy implications
+- Appendices: Law details (A), descriptive statistics (B), weights (C), placebo tests (D), extended time/geography (E), alternative estimators (F)
+
+### Publication status
+Published: Lauriane Belloy, Fabien Candau, Promoting social housing: Insights from redevelopment policies in Paris, Journal of Housing Economics, Volume 68, 2025, 102061.
+DOI: 10.1016/j.jhe.2025.102061
+Working paper: https://fcandau.github.io/Homepage/Research/Paris_modif_v8.pdf
+Online appendix: https://fcandau.github.io/Homepage/Research/online_app_housing.pdf
+Data: https://data.mendeley.com/datasets/2v76xj43fr/1
