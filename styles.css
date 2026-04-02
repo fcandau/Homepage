@@ -198,6 +198,15 @@ p {
   margin-bottom: 0.5rem;
 }
 
+/* ===== Blockquotes ===== */
+blockquote {
+  border-left: 3px solid #8b1a1a;
+  margin: 1rem 0 1rem 0.5rem;
+  padding: 0.5rem 1rem;
+  color: #444;
+  font-size: 0.95rem;
+}
+
 /* ===== Blog Post Pages ===== */
 .post {
   max-width: 700px;
