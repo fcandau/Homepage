@@ -1,0 +1,46 @@
+# Moving to Autarky, Trade Creation and Home Market Effect: an Exhaustive Analysis of Regional Trade Agreements in Africa
+## Candau, Guepie & Schlick (2019), Applied Economics, 51(30), 3293–3309
+
+### What is this paper about?
+This paper evaluates the effects of Regional Trade Agreements (RTAs) on bilateral trade in Africa over the longest period studied so far (1955–2014). Using a structural gravity equation with country-pair, importer-year, and exporter-year fixed effects, it asks three questions: Have RTAs promoted trade in Africa? Has their impact changed over time? And have RTAs redistributed trade between member countries (via home market or hub effects)?
+
+The main finding is that RTAs had strong trade-creating effects between 1955 and 1990, but their impact has diminished since. Economic Integration Agreements (EIAs) still promote trade, but Free Trade Agreements (FTAs) have had no trade creation between 1990 and 2014. There is no evidence of a home market effect (large countries do not disproportionately benefit), but hub effects are present: countries with the best access to international markets benefited more from RTAs, particularly in the first period. The behind-the-border provisions included in recent African RTAs do not significantly deter trade, contrary to what has been found for RTAs in general.
+
+### Important context
+- Africa's share of world exports declined from 6% in 1974 to 1.6% in 1995, recovering to only 3.2% in 2014. RTAs are one of the few policy tools available to foster economic integration on the continent.
+- The paper covers an exceptionally long period (1955–2014) with all major African RTAs: ECOWAS, COMESA, EAC, SADC, WAEMU, CEMAC, and others. This historical depth is unique in the literature.
+- The gravity equation uses the full set of recommended fixed effects (bilateral, importer-year, exporter-year) following the state-of-the-art in trade econometrics (Baier and Bergstrand, 2007; Magee, 2008), which controls for the multilateral resistance terms emphasized by Anderson and van Wincoop (2003).
+- The paper also uses a quantitative trade model to simulate a counterfactual scenario of autarky (no RTAs), finding that RTAs have impacted trade costs and trade flows but with small effects on welfare.
+
+### Data and methods
+- **Trade data**: Bilateral trade flows from Comtrade and DOTS (IMF), covering 69 countries (51 African + key trading partners + rest of world aggregate), 1955–2014.
+- **RTA data**: All notified RTAs, coded as binary variables by year of entry into force. Distinction between FTAs and EIAs. RTA heterogeneity indices from Kohl, Brakman and Garretsen (2016) to analyze provisions (WTO+ vs. WTOx).
+- **Estimator**: Pseudo-maximum likelihood (PPML) to deal with heteroscedasticity and zero trade flows.
+- **Fixed effects**: Bilateral fixed effects, importer-year and exporter-year fixed effects.
+- **Tests**: Trade creation, trade diversion, home market effect (following Hanson and Xiang, 2005), hub effect (interaction of RTA with network/market access indicators), and counterfactual autarky simulation.
+
+### Key results
+1. RTAs had strong trade-creating effects between 1955 and 1990, but this effect has declined in the most recent period (1990–2014).
+2. EIAs still promote trade in Africa; FTAs have had no significant trade creation since 1990.
+3. Behind-the-border provisions (WTOx) in African RTAs do not deter trade, unlike what Kohl et al. (2016) find for RTAs worldwide. Only WTO+ provisions are trade-promoting.
+4. No trade diversion detected: African RTAs have not diverted imports from cheaper external sources.
+5. No home market effect: large African countries do not disproportionately attract manufacturing due to RTAs.
+6. Hub effects are present: countries with the best international network benefited most from RTAs between 1955 and 1990, but this advantage has eroded in the recent period.
+7. Counterfactual simulations show that moving to autarky (removing all RTAs) would reduce trade but with small welfare effects.
+
+### Limitations and scope
+- The home market effect test relies on pairs of differentiated vs. homogeneous goods following Hanson and Xiang (2005). Results are ambiguous for some product pairs, which may reflect the limited industrial diversification of African economies rather than the absence of the mechanism.
+- The counterfactual autarky simulation uses a simple quantitative trade model. More sophisticated models with dynamic effects, input-output linkages, or labor market frictions might yield different welfare estimates.
+
+### Navigation guide
+- Section 1 (Introduction): Motivation, overview of African RTAs, contribution
+- Section 2 (Trade and RTAs in Africa): Empirical strategy (gravity equation), data description, RTA heterogeneity
+- Section 3 (Results): Trade creation by type of RTA and period, role of provisions
+- Section 4 (Testing theories): Trade diversion, home market effect, hub effect
+- Section 5 (Counterfactual scenarios): Autarky simulation and welfare analysis
+- Section 6 (Concluding remarks): Summary and future directions
+- Appendix: Spaghetti bowl of African RTAs, historical description
+
+### Publication status
+Published: Applied Economics, Volume 51, Issue 30, pp. 3293–3309, 2019.
+DOI: 10.1080/00036846.2019.1566691
