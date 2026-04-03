@@ -34,14 +34,14 @@ ul.task-list li input[type="checkbox"] {
 
 <body>
 
-<header>
+<header id="site-header">
   <h1>Fabien Candau</h1>
   <nav>
     <ul>
-      <li><a href="../Homepage/index.html">Home</a></li>
-      <li><a href="../Homepage/publication.html">Publications</a></li>
-      <li><a href="../Homepage/media.html">Media</a></li>
-      <li><a href="../Homepage/course.html">Courses</a></li>
+      <li><a data-page="index.html">Home</a></li>
+      <li><a data-page="publication.html">Publications</a></li>
+      <li><a data-page="media.html">Media</a></li>
+      <li><a data-page="course.html">Courses</a></li>
     </ul>
   </nav>
 </header>
@@ -114,16 +114,16 @@ ul.task-list li input[type="checkbox"] {
 <script>
   (function() {
     var path = window.location.pathname;
-    var links = document.querySelectorAll('header nav a');
+    var base = path.substring(0, path.indexOf('/Homepage/') + '/Homepage/'.length);
+    if (base.indexOf('/Homepage/') === -1) base = '/';
+    var links = document.querySelectorAll('header nav a[data-page]');
     links.forEach(function(link) {
-      var href = link.getAttribute('href');
-      if (path.endsWith(href.replace('/Homepage', ''))) {
+      var page = link.getAttribute('data-page');
+      link.href = base + page;
+      if (path.endsWith('/' + page) || (page === 'index.html' && (path.endsWith('/') || path.endsWith('/Homepage/')))) {
         link.classList.add('active');
       }
-      if (href.includes('index.html') && (path.endsWith('/') || path.endsWith('/Homepage/') || path.endsWith('/index.html'))) {
-        link.classList.add('active');
-      }
-      if (path.includes('/Media/') && href.includes('media.html')) {
+      if (path.includes('/Media/') && page === 'media.html') {
         link.classList.add('active');
       }
     });
