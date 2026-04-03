@@ -1,0 +1,242 @@
+/* ===== Reset & Base ===== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+  color: #333;
+  background-color: #faf9f7;
+  line-height: 1.7;
+  font-size: 16px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 2rem 2rem;
+}
+
+/* ===== Links ===== */
+a {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+a:visited {
+  color: #999;
+}
+
+a:hover {
+  color: #8b1a1a;
+  border-bottom-color: #8b1a1a;
+}
+
+/* Keep nav and header links always the same style */
+header nav a, header nav a:visited {
+  color: #555;
+}
+
+header nav a:hover, header nav a.active {
+  color: #8b1a1a;
+  border-bottom-color: #8b1a1a;
+}
+
+/* ===== Header & Navigation ===== */
+header {
+  background-color: #fff;
+  border: 1px solid #e0dcd8;
+  border-radius: 4px;
+  padding: 0.8rem 1rem;
+  margin: 0 -0.5rem 1.5rem;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+  color: #222;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li a {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding-bottom: 2px;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+  color: #8b1a1a;
+  border-bottom-color: #8b1a1a;
+}
+
+/* ===== Main Content ===== */
+main, #quarto-content, .page-columns {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 2rem 2rem 3rem;
+}
+
+/* ===== Section Headings ===== */
+h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #222;
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #8b1a1a;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #444;
+  margin: 1.5rem 0 0.8rem;
+}
+
+/* ===== Paragraphs & Lists ===== */
+p {
+  margin-bottom: 0.8rem;
+}
+
+ol, ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* ===== Home Page — Two Column ===== */
+.home-intro {
+  display: flex;
+  gap: 3rem;
+  margin-bottom: 2.5rem;
+  align-items: flex-start;
+}
+
+.home-intro .bio {
+  flex: 1;
+}
+
+.home-intro .contact {
+  flex: 0 0 260px;
+  background: #fff;
+  border: 1px solid #e0dcd8;
+  border-radius: 4px;
+  padding: 0.8rem 1rem;
+  font-size: 0.88rem;
+}
+
+.home-intro .contact p {
+  margin-bottom: 0.4rem;
+}
+
+/* ===== Work in Progress ===== */
+.wip-columns {
+  display: flex;
+  gap: 3rem;
+}
+
+.wip-columns .wip-col {
+  flex: 1;
+}
+
+/* ===== Paper list ===== */
+.paper-list {
+  list-style: none;
+  padding: 0;
+  margin-left: 0;
+}
+
+.paper-list li {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #e0dcd8;
+  transition: border-color 0.2s;
+}
+
+.paper-list li:hover {
+  border-left-color: #8b1a1a;
+}
+
+.paper-list .coauthors {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.2rem;
+}
+
+.paper-list .links {
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+.paper-list .links a {
+  margin-right: 0.8rem;
+}
+
+/* ===== Blockquotes ===== */
+blockquote {
+  border-left: 3px solid #8b1a1a;
+  margin: 1rem 0 1rem 0.5rem;
+  padding: 0.5rem 1rem;
+  color: #444;
+  font-size: 0.95rem;
+}
+
+/* ===== Blog post byline ===== */
+.byline {
+  color: #777;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ===== Images ===== */
+img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* ===== Footer ===== */
+footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+  border-top: 1px solid #e0dcd8;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+/* ===== Hide Quarto's own title block ===== */
+#title-block-header, .quarto-title-block {
+  display: none !important;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 700px) {
+  .home-intro {
+    flex-direction: column;
+  }
+  .home-intro .contact {
+    flex: auto;
+  }
+  .wip-columns {
+    flex-direction: column;
+  }
+  header, main, footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

@@ -1,0 +1,46 @@
+# Spatial Distribution of Skills and Regional Trade Integration
+## Candau & Dienesch (2015), The Annals of Regional Science, 54(2), 451–488
+
+### What is this paper about?
+This paper asks whether regional trade costs explain the uneven distribution of human capital between regions. It combines a New Economic Geography (NEG) theoretical model with heterogeneous workers, housing, and education investment, and an empirical analysis of the United States from 1940 to 2007.
+
+The key finding is that regional trade integration produces a sorting of workers: high-skilled workers agglomerate in the core while intermediate-skilled workers move to the periphery due to rising housing costs. This sorting then influences the opportunity cost of investing in education at the periphery. The theoretical model predicts a bell-shaped curve: first regional divergence in education investment during trade integration, then convergence at low trade costs. The empirical analysis on U.S. data confirms that regional trade integration has been a determinant of the spatial distribution of skills.
+
+### Important context
+- This paper is a NEG paper with heterogeneous agents. It extends Okubo (2010) by adding housing (which drives the sorting mechanism via land prices) and education investment (following Redding and Schott, 2004).
+- The sorting result differs from factor-endowment explanations (Heckscher-Ohlin / Michaels, 2008): here it is pecuniary externalities from market size and scale economies, not factor abundance, that drive the spatial distribution of skills.
+- The bell-shaped curve of spatial development found in standard NEG masks a more complex sorting pattern: the activities that remain in the core during the dispersion phase are not the same in terms of productivity and skills as those that move to the periphery.
+- Housing is critical: high-skilled workers stay in the core because agglomeration benefits outweigh high housing costs for them, while intermediate-skilled workers are priced out.
+
+### Data and methods
+- **Historical period (1940–1960)**: Truck registrations as a proxy for domestic trade integration of each U.S. state. Skill distribution measured by educational attainment from Census data.
+- **Contemporary period (1997, 2002, 2007)**: U.S. Commodity Flow Survey (CFS) providing inter- and intrastate trade flows. A multidimensional trade cost indicator is constructed including internal, interregional, and international components.
+- **Theoretical model**: NEG model with monopolistic competition, increasing returns, iceberg trade costs, heterogeneous workers (high-skilled, intermediate-skilled, unskilled), housing market, and endogenous education investment.
+- **Empirical strategy**: Regression of skill distribution on trade integration measures, controlling for state characteristics.
+
+### Key results
+1. Regional trade integration produces spatial sorting: high-skilled workers agglomerate in the core, intermediate-skilled workers move to the periphery due to housing costs.
+2. This sorting influences education investment: first regional divergence (more education in the core), then convergence at low trade costs as opportunities for local entrepreneurs increase in the periphery.
+3. Empirically, truck registrations (1940–1960) and CFS-based trade costs (1997–2007) significantly explain the spatial distribution of skills in U.S. states.
+4. Internal trade accounts for about 70% of the weight of all trade in the CFS (2007), confirming that regional trade costs matter.
+5. Policy implication: education at the periphery may be maintained during trade integration, because convergence arises for deeper integration.
+
+### Limitations and scope
+- The theoretical model is stylized (two regions, specific functional forms) and does not yield fully analytical results for all configurations.
+- The empirical analysis uses state-level data, not individual-level migration data. The causal identification relies on the exogeneity of trade cost proxies (truck registrations, CFS flows) which could be challenged.
+- The paper focuses on pecuniary externalities (market size, trade costs) and does not model other agglomeration forces such as knowledge spillovers, matching, or amenities that also drive spatial sorting.
+- Technological change, which has been critical for the reinvention of some regions, is not modeled — the analysis is essentially static.
+
+### Navigation guide
+- Section 1 (Introduction): Motivation, contribution, and literature positioning
+- Section 2 (The model): Brief survey of spatial sorting literature (2.1), model setup with heterogeneous workers, housing, and trade costs (2.2–2.4)
+- Section 3 (Spatial sorting): Theoretical results on the bell-shaped sorting pattern
+- Section 4 (Education): How sorting influences investment in skill acquisition
+- Section 5 (Empirical evidence): U.S. data, trade cost construction, regressions for 1940–1960 and 1997–2007
+- Section 6 (Conclusion): Summary and future directions
+- Appendices: Stability analysis (A), sustain points (B), bifurcation diagrams (C), trade indicator construction (D)
+
+### Publication status
+Published: The Annals of Regional Science, Volume 54, Issue 2, pp. 451–488, 2015.
+DOI: 10.1007/s00168-015-0662-4
+Working paper: https://hal.science/hal-02138625/document

@@ -1,0 +1,125 @@
+---
+title: "Publications"
+description: "Publications by Fabien Candau in environmental economics, economic geography, and international trade."
+---
+
+## Environmental Economics
+
+:::: {.paper-list}
+
+**Climate Change Fosters International Cooperation: Evidence from Water Treaties.**
+*Environmental and Resource Economics*, 85, 587–614, 2023.
+With Tchapo Gbandi.
+[DOI](https://doi.org/10.1007/s10640-023-00776-4) | [Working paper](https://www.freit.org/WorkingPapers/Papers/PoliticalEconomy/FREIT1792.pdf) | [Data & code](https://data.mendeley.com/datasets/243kvmtzt3/1) | [Companion paper](Research/online_treaty.pdf)
+
+> Climatic conditions, such as higher temperatures and lower precipitation, lead to a higher likelihood of signing Water Treaties in the short run, and even more so in the long run. A one-degree Celsius increase in temperature has resulted in a 16.6% increase in the likelihood of signing WTs.
+
+---
+
+**Climate Change, Comparative Advantage and the Water Capability to Export Agricultural Goods.**
+*World Development*, 158, 2022.
+With Charles Regnacq and Julie Schlick.
+[DOI](https://doi.org/10.1016/j.worlddev.2022.105963) | [Working paper](https://www.freit.org/WorkingPapers/Papers/TradePatterns/FREIT1741.pdf) | [Data & code](https://data.mendeley.com/datasets/s468kpnvx8/1) | [Companion paper](Research/online_wd.pdf) | [Media (fr)](https://www.telos-eu.com/fr/economie/lagriculture-mondiale-en-2050-des-avantages-compar.html)
+
+> International trade is a partial solution to climate change by reallocating agricultural production on a global scale. This article constructs an indicator of water's capacity to produce agricultural goods, and shows how climate change may alter countries' Ricardian comparative advantages in 2050.
+
+---
+
+**Pollution Haven and Corruption Paradise.**
+*Journal of Environmental Economics and Management*, 85, 171–192, 2017.
+With Elisa Dienesch.
+[DOI](https://doi.org/10.1016/j.jeem.2017.05.005) | [Working paper](https://www.freit.org/WorkingPapers/Papers/ForeignInvestment/FREIT925.pdf)
+
+> Trade integration promotes pollution havens: a 1% increase in access to the European market from a pollution haven fosters relocation there by 0.1%. Corruption lowers environmental standards, which strongly attract polluting firms: a 1% increase of corruption fuels relocation by 0.28%.
+
+::::
+
+## Economic Geography (Selected)
+
+I am specialized in Economic Geography, a field which examines the spatial distribution of economic activities. I initially developed theoretical models at the intersection of international trade and urban economics to study the local impact of globalization. More recently, my research has turned empirical, focusing on urban economics or international trade.
+
+:::: {.paper-list}
+
+**Promoting Social Housing: Insights from Redevelopment Policies in Paris.**
+*Journal of Housing Economics*, 68, 102061, 2025.
+With Lauriane Belloy.
+[DOI](https://doi.org/10.1016/j.jhe.2025.102061) | [Working paper](Research/Paris_modif_v8.pdf) | [Online appendix](Research/online_app_housing.pdf) | [Data](https://data.mendeley.com/datasets/2v76xj43fr/1)
+
+> Redevelopment policies that increase incentives to convert offices and other commercial units into social housing in Paris have no effect.
+
+---
+
+**Beyond the Income Effect of International Trade on Ethnic Wars in Africa.**
+*Economics of Transition and Institutional Change*, 30(3), 419–661, 2022.
+With Tchapo Gbandi and Geoffroy Guepie.
+[DOI](https://doi.org/10.1111/ecot.12300) | [Working paper](https://hal.science/hal-03265017/document)
+
+> Globalization by fostering the formation of new national identities has peaceful effects between ethnic groups in Africa.
+
+---
+
+**Moving to Autarky, Trade Creation and Home Market Effect.**
+*Applied Economics*, 51(30), 3293–3309, 2019.
+With Geoffroy Guepie and Julie Schlick.
+
+---
+
+**Taming Tax Competition with a European Corporate Income Tax.**
+*Revue d'économie politique*, 2018.
+With Jacques Le Cacheux.
+[DOI](https://doi.org/10.3917/redp.284.0575) | [Paper](https://shs.cairn.info/article/REDP_284_0575?tab=texte-integral)
+
+> A European corporate income tax is necessary!
+
+---
+
+**How Income and Crowding Effects Influence the World Market for French Wines.**
+*The World Economy*, 40(5), 963–977, 2017.
+With F. Deisting and J. Schlick.
+[Working paper](https://www.freit.org/WorkingPapers/Papers/TradePatterns/FREIT960.pdf)
+
+---
+
+**Spatial Distribution of Skills and Regional Trade Integration.**
+*The Annals of Regional Science*, 54(2), 451–488, 2015.
+With Elisa Dienesch.
+[DOI](https://doi.org/10.1007/s00168-015-0662-4) | [Working paper](https://hal.science/hal-02138625/document)
+
+> The spatial sorting of heterogeneous talented individuals influences the regional creation of human capital. First a regional divergence in education investment occurs and then a convergence. Regional trade integration has been a determinant of the spatial distribution of skills in the USA.
+
+---
+
+**Is Agglomeration Desirable?**
+*Annals of Economics and Statistics*, 203–227, 2011.
+[DOI](https://doi.org/10.2307/41615480) | [Working paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=df15cef8adf47222ce62b28bf835fdbc095cff90)
+
+> Dispersion can be a Pareto-efficient outcome!
+
+---
+
+**Agglomeration and Welfare with Heterogeneous Preferences.**
+*Open Economies Review*, 22, 685–708, 2011.
+With Marc Fleurbaey.
+[DOI](https://doi.org/10.1007/s11079-010-9168-y)
+
+> Measuring individual welfare in terms of equivalent income, we show that in the case of agglomeration, the worst-off workers would prefer a dispersed equilibrium.
+
+---
+
+**Good Governance, Trade and Agglomeration.**
+*Papers in Regional Science*, 87(4), 483–504, 2008.
+[DOI](https://doi.org/10.1111/j.1435-5957.2008.00169.x)
+
+> Martin Beckmann Prize — Best Paper published in Papers in Regional Science in 2008 (RSAI).
+
+---
+
+**Entrepreneurs Location Choice and Public Policies.**
+*Journal of Economic Surveys*, 22(5), 909–952, 2008.
+[DOI](https://doi.org/10.1111/j.1467-6419.2008.00553.x)
+
+::::
+
+## Other Publications
+
+Full list of articles on [Google Scholar](https://scholar.google.com/citations?user=Cy_hOg0AAAAJ&hl=en).

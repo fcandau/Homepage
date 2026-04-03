@@ -1,0 +1,47 @@
+# Climate Change Fosters International Cooperation: Evidence from Water Treaties
+## Candau & Gbandi (2023), Environmental and Resource Economics, 85, 587–614
+
+### What is this paper about?
+This paper asks whether climate change pushes governments to sign international Water Treaties (WTs) on shared rivers and basins. The answer is yes. Using panel data on 124 countries from 1961 to 2007, the paper shows that higher temperatures and lower precipitation directly increase the likelihood of signing WTs, both in the short run and — even more strongly — in the long run. A one-degree Celsius increase in temperature results in a 16.6% increase in the likelihood of signing WTs in the long run (versus 2% in the short run).
+
+This is the first study to provide causal evidence that climate change drives international water cooperation. The long-run effect being much larger than the short-run effect indicates that WTs are adaptation policies to climate change, not just reactions to weather shocks.
+
+### Important context
+- The paper studies Water Treaties specifically, not all International Environmental Agreements. WTs govern transboundary waters (rivers, basins shared by multiple countries), which account for more than half of freshwater flows worldwide.
+- The identification strategy uses climate variables (temperature and precipitation) rather than water scarcity indicators, because water scarcity data are only available for recent years and are endogenous to many variables that also explain WTs (population, economic specialization, development level).
+- The paper distinguishes between "strong" treaties (those with monitoring provisions, enforcement mechanisms, or common institutions) and "weak" treaties. Climate change drives both types.
+- The paper analyzes treaties by content: environmental protection versus economic development. Climate change increases the likelihood of both types.
+
+### Data and methods
+- **Water Treaties**: International Freshwater Treaty Database — all bilateral and multilateral WTs signed between 1961 and 2007, classified by content and strength.
+- **Climate data**: Temperature and precipitation computed at 2.5 arc-minute grid (~21 km²) along the land surface of each country's river basins, then aggregated at the country level.
+- **Estimation**: Panel data with country fixed effects and bilateral fixed effects to control for omitted variables.
+- **Short-run analysis**: Year-to-year variation in climate variables on the probability of signing a WT.
+- **Long-run analysis ("long differences")**: Comparison of climate conditions between two periods (1961–1975 vs. 1993–2007), following the methodology of Schlenker and Roberts (2009) and Burke and Tanutama (2019). This approach captures the adaptation dimension.
+- **Robustness**: Multiple weather variables, different specifications, controls for agricultural specialization, regional trade agreements, upstream/downstream asymmetries.
+
+### Key results
+1. Higher temperatures and lower precipitation significantly increase the likelihood of signing WTs.
+2. The long-run effect far exceeds the short-run effect: a 1°C increase leads to +16.6% likelihood in the long run vs. +2% in the short run — indicating WTs are adaptation policies.
+3. Results hold for "strong" treaties (with enforcement, monitoring, common institutions), not just symbolic agreements.
+4. Results hold for treaties on both environmental protection and economic development.
+5. The effect is robust across multiple climate variables, specifications, and controls.
+
+### Limitations and scope
+- The paper shows that climate change drives the signing of WTs, but does not assess the effectiveness of these treaties in actually preserving water resources. Whether these agreements translate into improved ecological outcomes remains an open question.
+- The increasing number of treaties might partly reflect the difficulty of finding lasting solutions — more treaties could signal more problems rather than more cooperation.
+- The analysis uses country-level aggregation of climate variables along river basins. Within-country heterogeneity in climate impacts on different basins is not fully exploited.
+- The paper does not analyze whether WTs prevent water-related conflicts. It studies cooperation, not conflict.
+- Data on WTs content and enforcement are limited — the distinction between "strong" and "weak" treaties relies on observable treaty characteristics, not on actual implementation.
+
+### Navigation guide
+- Section 1 (Introduction): Motivation, research question, contribution, and summary of results
+- Section 2 (Water treaties and climate in the short run): Description of WTs around the world (2.1), treaty typology (2.2), baseline specification and data (2.3–2.5)
+- Section 3 (Short-run results): Main results on temperature and precipitation effects, robustness checks
+- Section 4 (Water treaties and climate change in the long run): Long-differences estimation, adaptation interpretation, results by treaty type and content
+- Section 5 (Conclusion): Summary, limitations, and future research directions
+- Appendices: Country list (A), descriptive statistics (B), lag structure (C), downstream/upstream analysis (D)
+
+### Publication status
+Published: Environmental and Resource Economics, Volume 85, 587–614, 2023.
+DOI: 10.1007/s10640-023-00776-4

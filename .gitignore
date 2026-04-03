@@ -1,3 +1,6 @@
 .claude/
 CLAUDE.md
 .vscode/
+
+/.quarto/
+**/*.quarto_ipynb

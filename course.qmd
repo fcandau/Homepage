@@ -1,0 +1,35 @@
+---
+title: "Courses"
+description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconomics, economic geography, microeconomics."
+---
+
+## Econométrie
+
+- [Econométrie, Série Temporelle (M1, 2023–)](https://elearn.univ-pau.fr/enrol/index.php?id=21027)
+- [Econométrie des données de panel (M1, 2023–24)](https://elearn.univ-pau.fr/enrol/index.php?id=22081)
+- [Inférence causale, Introduction (L3, 2021–)](https://elearn.univ-pau.fr/enrol/index.php?id=16980)
+- [Econometrics Applied to Energy and Environmental Issues (M1, 2022–)](https://elearn.univ-pau.fr/enrol/index.php?id=19945)
+
+## Macroéconomie
+
+- [Economie des Politiques Sociales (L3, 2024–)](https://elearn.univ-pau.fr/enrol/index.php?id=22477)
+- [Macroéconomie, Introduction (L1, 2006–2024)](https://elearn.univ-pau.fr/course/info.php?id=7372&lang=en)
+
+## From Local to Global
+
+- [Urban and Regional Economics (M1, 2010–)](https://elearn.univ-pau.fr/course/info.php?id=236)
+- Economic Geography (M2, 2006–)
+- [Système d'Information Géographique (M2, 2023–)](https://elearn.univ-pau.fr/enrol/index.php?id=21443)
+- [Territorial Issues of Transition (M1, 2022–)](https://elearn.univ-pau.fr/enrol/index.php?id=20122)
+- [Modélisation des flux commerciaux (L3, 2015–)](https://elearn.univ-pau.fr/course/view.php?id=7255)
+- Economie Internationale (L3, 2008–2021)
+
+## Microéconomie
+
+- Microéconomie, Introduction (L1, 2006–2021)
+- Microéconomie (L2, 2010–2015)
+
+## Archives
+
+- Economie du Développement (L3, 2006–2008)
+- Economie de l'environnement (L3, 2010–2013)

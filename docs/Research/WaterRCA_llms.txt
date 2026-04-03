@@ -1,0 +1,45 @@
+# Climate Change, Comparative Advantage and the Water Capability to Export Agricultural Goods
+## Candau, Regnacq & Schlick (2022), World Development, 158
+
+### What is this paper about?
+This paper asks how climate change, by altering water resources, will reshape the comparative advantages of countries in agricultural trade. It builds a new indicator of "water capability to produce" at a very fine geographical scale (30 arc-minute grid, ~55 km at the equator) for multiple crops worldwide, then connects this local indicator to international trade patterns via a gravity equation, and finally simulates how comparative advantages shift under climate change scenarios for 2050.
+
+The key insight — rooted in Ricardian theory — is that a country's comparative advantage depends on relative costs across countries, not absolute productivity. So climate change can produce counterintuitive results: a country may lose absolute water capability for a crop but gain comparative advantage in it (32.5% of cases), or improve local conditions but lose comparative advantage (18.2% of cases).
+
+### Important context
+- This paper bridges two literatures that rarely talk to each other: agronomic/hydrological modeling (local crop-water data) and international trade theory (gravity equations, revealed comparative advantage). Economists typically use crude water proxies; hydrologists typically ignore trade patterns.
+- The "water capability to produce" indicator is not about water governance or institutions — it captures physical and climatic constraints on production (precipitation, runoff, evapotranspiration, groundwater, thermal regime, soil quality).
+- The paper shows that international trade can be a partial solution to climate change by reallocating agricultural production globally — but this reallocation may further marginalize the most vulnerable countries.
+
+### Data and methods
+- **Local production data**: MIRCA2000 (monthly irrigated and rainfed crop areas at 30 arc-minute resolution worldwide).
+- **Hydrological data**: FAO AQUAMAPS (precipitation, runoff, evapotranspiration) merged with GAEZ v3.0 (thermal regime, crop suitability, soil quality, terrain slope, land cover).
+- **Groundwater**: GRACE satellite data on groundwater storage.
+- **Trade data**: Bilateral agricultural trade flows at HS4 level.
+- **Climate change scenarios**: Temperature and precipitation projections for 2050.
+- **Method**: Three-step approach: (1) estimate crop production elasticity to thermal and hydrologic conditions at local level with fixed effects, (2) use predicted values in a trade gravity equation to estimate the water elasticity of exports, (3) compute Revealed Comparative Advantages (Balassa index) and simulate their evolution under climate change.
+- **Country classification**: Four groups based on vulnerability to climate change (FERDI index).
+
+### Key results
+1. Insufficient renewable water resources induce a minimum loss of capability to produce agricultural goods by approximately 4%, partially attenuated by groundwater pumping (+0.03% per 1% increase in groundwater stock).
+2. 64.2% of agricultural lands may experience a decrease in their water capability to produce under climate change.
+3. The most vulnerable countries face a total loss of almost 17% of agricultural lands and a potential 14% drop in exports.
+4. Less vulnerable countries could experience a rise in exports of around +72% with strong increase in comparative advantages (+59.5% on average).
+5. In 32.5% of cases, deterioration of local conditions leads to improvement in comparative advantage (e.g., potatoes in Mediterranean countries). In 18.2% of cases, improvement in local conditions leads to deterioration of comparative advantage (e.g., rice in India).
+
+### Limitations and scope
+- The indicator captures physical water capability, not farmer behavior.
+- Trade flows in the simulation only evolve due to relative production cost changes — technology and consumer demand are held constant.
+- The national-level aggregation simply sums local indicators, which is too simple to capture the political and hydrological dynamics of water allocation within countries. Local water governance institutions are not modeled.
+
+### Navigation guide
+- Section 1 (Introduction): Full motivation, contribution, and summary of results
+- Section 2 (Agricultural production and water at the crop level): Local-level analysis — data, estimation of production elasticities to water and climate conditions
+- Section 3 (The Water Capability to Export): Trade gravity equation — linking local water capability to international trade flows
+- Section 4 (Forecasting the Effects of Climate Change): Simulations for 2050 — changes in local capability, exports, and comparative advantages by country group
+- Section 5 (Conclusion): Summary, limitations, and future directions
+- Appendices: Product classification (HS4), additional tables and robustness checks
+
+### Publication status
+Published: World Development, Volume 158, October 2022, Article 105963.
+DOI: 10.1016/j.worlddev.2022.105963

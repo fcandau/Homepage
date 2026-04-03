@@ -1,0 +1,45 @@
+# Beyond the Income Effect of International Trade on Ethnic Wars in Africa
+## Candau, Gbandi & Guepie (2022), Economics of Transition and Institutional Change, 30(3), 419–661
+
+### What is this paper about?
+This paper asks whether international trade has effects on ethnic conflicts in Africa beyond the traditional income channel. Most of the literature studies how trade-induced income shocks (e.g., commodity price changes) affect conflicts. This paper goes further by controlling for income and asking: does trade still reduce conflict through other mechanisms?
+
+The main finding is yes. Using data on 37 African countries over 1993–2010, with trade proxied at the ethnic group level, international trade reduces the probability of ethnic warfare even after controlling for income, climate, and institutions. The effect is driven by agricultural trade (not mining). An original two-step identification strategy suggests that trade promotes peace by fostering new national identities — globalization, by promoting cultural exchanges and economic interactions between ethnic groups, helps relativize ethnic differences.
+
+### Important context
+- This paper is about ethnic conflicts specifically, not civil wars in general. Since 1960, more than half of Africa's civil conflicts have been ethnic conflicts (42 out of 54 countries).
+- The paper distinguishes between the income effect of trade (well-studied) and the residual/non-monetary effects (cultural exchanges, trust-building, formation of national identities). The contribution is to isolate the latter.
+- Trade data do not exist at the ethnic level. The paper constructs proxies using the geographical distribution of 175 crops (on a 10 km × 10 km grid) and mineral resources, overlaid with ethnic group territories.
+- Income at the ethnic level is approximated using satellite nightlight data, complemented by climate variables for rural areas where nightlights are less reliable.
+- The finding that agricultural trade promotes peace while mining trade does not is consistent with the resource curse literature and with the idea that agricultural trade involves more widespread economic interactions across ethnic groups.
+
+### Data and methods
+- **Conflict data**: Ethnic Power Relations (EPR) database and UCDP/PRIO Armed Conflict Dataset, 1993–2010, 37 African countries.
+- **Trade at ethnic level**: Constructed from Monfreda et al. (2008) crop distribution data (175 crops, 10 km grid) and mineral resource locations, crossed with ethnic group boundaries and world commodity prices.
+- **Income**: Satellite nightlight data (Henderson et al., 2012) at the ethnic group level, plus climate variables.
+- **Estimation**: Panel data with ethnic, time, and country-year fixed effects. Dependent variable: probability of ethnic conflict.
+- **Two-step strategy**: Step 1 — regress conflict likelihood on country-year fixed effects, ethnic income, and ethnic/time fixed effects, exploiting the fact that some ethnic groups are divided by arbitrary borders. Step 2 — regress the estimated country-year effects on total exports and controls. This separates the income effect from the national-level effect of trade.
+- **Identification**: The arbitrary partition of ethnic groups across borders (Michalopoulos and Papaioannou, 2016) allows separating within-ethnic income variation from national-level time-varying characteristics.
+
+### Key results
+1. International trade reduces the probability of ethnic warfare, even after controlling for income, climate change, political institutions, and a rich set of fixed effects.
+2. The peaceful effect is driven by agricultural trade. Mining trade has no significant effect on conflicts.
+3. The two-step analysis shows that exports reduce conflicts by affecting time-varying national characteristics — interpreted as evidence that globalization participates in the formation of new national identities with peaceful effects between ethnic groups.
+4. The result is not contradictory to the literature finding that trade shocks cause conflicts: those studies capture short-run price shock effects, while this paper captures more continuous, progressive effects of trade integration.
+
+### Limitations and scope
+- Trade at the ethnic level is approximated (not directly observed). The proxy is based on the assumption that ethnic groups export the commodities produced in their territory, which may not always hold.
+- The paper finds a net peaceful effect of trade but cannot fully disentangle which specific non-monetary mechanism dominates (trust-building, cultural hybridization, national identity formation, etc.).
+- The two-step strategy relies on the assumption that the arbitrary partition of ethnic groups across borders is a valid source of identification. While well-established in the literature, this assumption could be challenged if border placement was not truly arbitrary in all cases.
+
+### Navigation guide
+- Section 1 (Introduction): Motivation, conceptual framework on non-monetary effects of trade, contribution
+- Section 2 (Empirical Strategy): Data construction (trade at ethnic level, income proxies, conflict data), baseline specification with fixed effects
+- Section 3 (Results): Main results on trade and ethnic conflict, agricultural vs. mining trade, robustness checks
+- Section 4 (Two-step strategy): Identification using ethnic partitioning, separation of income and national-level effects, interpretation as national identity formation
+- Section 5 (Conclusion): Summary and policy implications
+
+### Publication status
+Published: Economics of Transition and Institutional Change, Volume 30, Issue 3, pp. 419–661, 2022.
+DOI: 10.1111/ecot.12300
+Working paper: https://hal.science/hal-03265017/document

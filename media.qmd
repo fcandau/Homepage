@@ -1,0 +1,42 @@
+---
+title: "Media"
+description: "Blog posts and videos by Fabien Candau on economics: trade wars, pollution havens, tax competition, economic geography, climate change."
+---
+
+## Research Outreach
+
+- [L'agriculture mondiale en 2050 : des avantages comparatifs bouleversés](https://www.telos-eu.com/fr/economie/lagriculture-mondiale-en-2050-des-avantages-compar.html)
+- [Pollution Havens are not a Myth!](Media/Haven.qmd)
+- [Taming Tax Competition with a Common Corporate Income Tax](Media/TamingTaxComp.qmd)
+- [Regional Trade Agreements in Africa](Media/AfricaRTA.qmd)
+- [The Triumph of the New Economic Geography](Media/NEG.qmd)
+- [Le revenu équivalent : au-delà du PIB](Media/EquivIncome.qmd)
+
+## Blog Posts
+
+I write here on economics topics that catch my attention. I have also rescued a few posts from Blogageco, a blog I ran with Elisa Dienesch from 2009 to 2019, that may still be of interest.
+
+- [L'industrie pharmaceutique, des monopoles à l'internationalisation](Media/Pharma.qmd)
+- [Guerre commerciale éclair ?](Media/GuerreCom.qmd)
+- [Excédent d'épargne en Chine](Media/EpargneChine.qmd)
+- [La mondialisation, ça compte pour d'Uber !](Media/Mondialisation.qmd)
+- [Not Made in France : Déficit commercial et compétitivité](Media/NotMadeInFrance.qmd)
+- [EU Regions are Falling into a Middle-Income Trap?](Media/MiddleIncomeTrap.qmd)
+- [Taxe sur la Valeur Ajoutée](Media/TVA.qmd)
+- [Le match France versus Royaume-Uni](Media/FranceVsUK.qmd)
+- [T'es cop ou t'es pas cop ? Réchauffement climatique et probabilités](Media/COP21.qmd)
+- [L'incroyable commerce des petites bêtes](Media/PetitesBetes.qmd)
+- [Conseils aux doctorants](Media/ConseilsDoctorants.qmd)
+- [Economie du vin, à lire sans modération](Media/Vin.qmd)
+- [Un hommage d'enfer à Becker](Media/Becker.qmd)
+- [Von Thünen en Amazonie](Media/VonThunen.qmd)
+- [60 millions d'Européens ont traversé l'Atlantique](Media/HistoricalMigration.qmd)
+- [De Jules Verne à la mondialisation : une histoire des coûts commerciaux](Media/HistoricalTradeCosts.qmd)
+
+## Videos
+
+- [Les dépenses de santé depuis 1950](https://www.youtube.com/watch?v=-uoT2jJpHOg)
+- [Théories de l'information en économie](https://www.youtube.com/watch?v=IvxqdWHg0jE)
+- [Biens publics et privés en économie](https://www.youtube.com/watch?v=mjCx8qLtDco)
+- [Nouvelles théories du commerce international](https://www.youtube.com/watch?v=qvUsfhqsG2c)
+- [Équations de gravité appliquées aux flux commerciaux](https://www.youtube.com/watch?v=14_iAEDNhJY)

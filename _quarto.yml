@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - llms.txt
+    - sitemap.xml
+    - robots.txt
+    - google381cf6834b4474db.html
+    - Research/*_llms.txt
+
+website:
+  title: "Fabien Candau"
+  navbar: false
+
+format:
+  html:
+    theme: none
+    css: custom.css
+    toc: false
+    minimal: true
+    link-external-newwindow: true
+    include-before-body:
+      text: |
+        <header>
+          <h1>Fabien Candau</h1>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="publication.html">Publications</a></li>
+              <li><a href="media.html">Media</a></li>
+              <li><a href="course.html">Courses</a></li>
+            </ul>
+          </nav>
+        </header>
+    include-after-body:
+      text: |
+        <footer>
+          <p>© 2025 Fabien Candau</p>
+        </footer>
+        <script>
+          (function() {
+            var path = window.location.pathname;
+            var links = document.querySelectorAll('header nav a');
+            links.forEach(function(link) {
+              var href = link.getAttribute('href');
+              if (path.endsWith(href) || (href === 'index.html' && (path.endsWith('/') || path.endsWith('/index.html')))) {
+                link.classList.add('active');
+              }
+              if (path.includes('/Media/') && href === 'media.html') {
+                link.classList.add('active');
+              }
+            });
+          })();
+        </script>

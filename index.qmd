@@ -1,0 +1,56 @@
+---
+title: ""
+pagetitle: "Fabien Candau — Economist"
+description: "Professor of economics at UPPA (UMR TREE). Research on environmental economics, economic geography, and international trade."
+title-block-style: none
+---
+
+::: {.home-intro}
+::: {.bio}
+Welcome! I am a professor of economics at [UPPA (UMR TREE)](https://tree.univ-pau.fr/) in France.
+
+My research started in New Economic Geography, bridging urban and international economics. I have since worked on urban topics (social housing, local human capital, telecommuting), international trade (trade policy, tax competition, transport costs), and more recently environmental economics (pollution havens, climate change, water resources, marine ecosystems).
+:::
+
+::: {.contact}
+![](Home/fabien_candau.png){width=140 style="border-radius: 6px; display: block; margin: 0 auto 0.8rem;"}
+
+[Curriculum Vitae](Home/cv2023.pdf) — [Google Scholar](https://scholar.google.com/citations?user=Cy_hOg0AAAAJ)
+:::
+:::
+
+## Work in Progress
+
+::: {.wip-columns}
+<div class="wip-col">
+<h3>Environmental Economics</h3>
+<ul class="paper-list">
+<li>
+<strong>The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests</strong>
+<p class="coauthors">With Florian Lafferrere.</p>
+<p class="links"><a href="Research/DiD11.pdf">Working paper</a></p>
+</li>
+<li>
+<strong>Invasive Species and Ballast Water From the United States</strong>
+<p class="coauthors">With Florian Lafferrere and Julie Schlick.</p>
+<p class="links"><a href="Research/BWE_IAS.pdf">Preliminary work</a></p>
+</li>
+</ul>
+</div>
+
+<div class="wip-col">
+<h3>Economic Geography</h3>
+<ul class="paper-list">
+<li>
+<strong>The Effect of High-Speed Internet on Working from Home</strong> (2025)
+<p class="coauthors">With Lauriane Belloy and Younoussa Abdoulhazis-Oumarou.</p>
+<p class="links"><a href="Research/High_Speed_Internet_Remote_Work.pdf">Working paper</a> <a href="Research/HSI_all.zip">Matlab and R code</a></p>
+</li>
+<li>
+<strong>Labor Adjustment Costs in French Viticulture: Evidence from Trade-Cost Shocks</strong>
+<p class="coauthors">With Laure Latruffe.</p>
+<p class="links"><a href="Research/Adjust_L_Demand.pdf">Working paper</a></p>
+</li>
+</ul>
+</div>
+:::
