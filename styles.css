@@ -116,6 +116,11 @@ p {
   margin-bottom: 0.8rem;
 }
 
+.post ol, .post ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
 /* ===== Publication & Paper Lists ===== */
 .paper-list {
   list-style: none;
