@@ -128,13 +128,12 @@ ul.task-list li input[type="checkbox"] {
 <script>
   (function() {
     var path = window.location.pathname;
-    var base = path.substring(0, path.indexOf('/Homepage/') + '/Homepage/'.length);
-    if (base.indexOf('/Homepage/') === -1) base = '/';
+    var siteRoot = '/Homepage/';
     var links = document.querySelectorAll('header nav a[data-page]');
     links.forEach(function(link) {
       var page = link.getAttribute('data-page');
-      link.href = base + page;
-      if (path.endsWith('/' + page) || (page === 'index.html' && (path.endsWith('/') || path.endsWith('/Homepage/')))) {
+      link.href = siteRoot + page;
+      if (path.endsWith('/' + page) || (page === 'index.html' && (path === siteRoot || path === siteRoot + 'index.html'))) {
         link.classList.add('active');
       }
       if (path.includes('/Media/') && page === 'media.html') {
