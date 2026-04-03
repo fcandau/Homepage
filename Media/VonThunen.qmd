@@ -25,7 +25,7 @@ Ainsi ceux qui espèrent produire beaucoup sur de petites quantités de terre (e
 
 Pour illustrer le modèle, prenons deux agriculteurs A et B dont un producteur A qui a une production plus intensive que le producteur B, soit $a_{A}<a_{B}$ ou si vous préférez $q_{A}>q_{B}$. Le producteur A proposera une enchère plus élevée, puisqu'une unité de terre lui permet de produire plus. Prenez des valeurs pour les coef techniques des deux agents, idem pour les coûts de transport et vous pourrez tracer la rente en fonction de la distance grâce à l'équation précédente.
 
-![Geluck](img/thunen_geluck.png){width=320}
+![Geluck](img/thunen_geluck.png){#fig-geluck width=320}
 
 L'intersection des deux droites vous donnera le point pour lequel A n'est plus intéressé par la localisation dont B devient le propriétaire. En égalisant les rentes on obtient la limite de l'exploitation de A et le début de celle de B. Ce modèle a ensuite été étendu à l'économie urbaine, il explique alors pourquoi les faibles revenus se localisent en banlieue où le prix du sol est faible alors que les hauts revenus se localisent près du centre d'affaire ou de consommation.
 
@@ -37,7 +37,7 @@ En somme, l'important apport de von Thünen est de démontrer la puissance organ
 
 A partir des années 70-80 le Brésil se dote d'une industrie agro-alimentaire moderne, le Brésil va être nommé la ferme du monde, avec des filières agro-exportatrices puissantes dans le soja, l'éthanol, le sucre et le bœuf etc. La hausse des profits a permis à l'industrie de s'étendre, de produire toujours plus loin, le rachat de terre par les industriels a été une incitation pour les plus pauvres à brûler la forêt amazonienne premièrement pour l'exploiter (pâturage) mais aussi dans l'espoir d'obtenir un titre de propriété de sorte à pouvoir vendre ensuite (au bout de x années qu'une terre était exploitée, elle devenait la propriété des sans terres). Vous voyez le cercle vicieux...
 
-![Déforestation Amazonie graphique](img/thunen_foret.png)
+![Déforestation Amazonie graphique](img/thunen_foret.png){#fig-foret}
 
 Ainsi à partir des années 70 l'Amazonie a commencé à fondre comme neige au soleil. Dans les années 90 c'est la forte valorisation du prix du soja qui a accentué cette déforestation.
 

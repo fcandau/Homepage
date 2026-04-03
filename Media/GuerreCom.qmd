@@ -12,7 +12,7 @@ En fait il parle peut-être, soyons généreux, d'une sous-évaluation du Yuan q
 
 Pour Trump, une guerre commerciale, ce n'est pas une politique désuète au relent mercantiliste qui a démontré son inefficacité, c'est un outil politique qui lui fait marquer des points auprès de son électorat. Il utilise les tarifs à des fins populistes. Que va-t-il se passer ? D'après Trump : "trade wars are good, and easy to win!"
 
-![Trade war cartoon](img/guerre_cartoon.jpg)
+![Really?](img/guerre_cartoon.jpg){#fig-cartoon}
 
 Mais d'après quelques rares études économiques ([Ossa, 2014](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.5136&rep=rep1&type=pdf) ; [Nicita et al. 2017](http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1740)) les tarifs pourraient augmenter entre 20 et 60% suivant les pays en cas de guerre commerciale mondiale, ce qui pourrait entraîner une baisse de la croissance mondiale allant de 1 à 2% selon [Krugman](https://www.nytimes.com/2018/06/17/opinion/thinking-about-a-trade-war-very-wonkish.html) et évidemment des pertes bien plus conséquentes pour l'économie américaine. Une guerre commerciale entre la Chine et les Etats-Unis ne devrait impacter l'Europe qu'indirectement via une baisse de la demande américaine. Mais si guerre commerciale il y a, elle sera coûteuse.
 

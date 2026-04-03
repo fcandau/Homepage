@@ -12,6 +12,12 @@ website:
   title: "Fabien Candau"
   navbar: false
 
+lang: fr
+
+crossref:
+  fig-title: "Graphique"
+  tbl-title: "Tableau"
+
 format:
   html:
     theme: none

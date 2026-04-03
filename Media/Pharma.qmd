@@ -21,7 +21,7 @@ Pour comprendre un peu mieux ce secteur, une brève analyse du cycle de producti
 - **La mise sur le marché** — Entre la découverte et la mise sur le marché, il faut compter en moyenne huit ans.
 - **La fin du monopole et l'entrée des génériques.**
 
-![Cycle du produit pharmaceutique](img/pharma_cycle.jpg)
+![Cycle du produit pharmaceutique](img/pharma_cycle.jpg){#fig-cycle}
 
 ## Concurrence monopolistique, monopsone et régulation
 
@@ -37,7 +37,7 @@ De nombreuses études théoriques présentent les mécanismes économiques expli
 
 Acemoglu et Linn (2004) constatent qu'une augmentation de 1% de la taille du marché est associée à une augmentation de 4 à 6% du nombre de nouvelles entités moléculaires. Blume-Kohout et Sood (2013) montrent par exemple que l'élargissement de la couverture Medicare Part 2 à plus de 28 millions de seniors américains a entraîné une hausse de la recherche des laboratoires.
 
-![Essais cliniques Alzheimer vs contraceptifs](img/pharma_medicare.png)
+![Recherches Alzheimer et contraceptifs](img/pharma_medicare.png){#fig-medicare}
 
 ## Tous les médicaments sont fabriqués en Asie ?
 

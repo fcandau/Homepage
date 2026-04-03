@@ -28,7 +28,7 @@ This theoretical hypothesis has not yet been tested for Africa since the contine
 
 Indeed the industrial sector in Africa is still underdeveloped but has known a particular increase as illustrated by the export of industrial goods of African countries.
 
-![Manufacturing exports from Africa](img/africa_manufacture.png)
+![Manufacturing exports from Africa](img/africa_manufacture.png){#fig-manufacture}
 
 Beyond that effect, we also test the "Hub Effect Hypothesis": with regional trade integration, a country with the best access to other markets can become a platform for exports, attracting and creating activities at the expense of countries with poor international networks (Puga and Venables, 1997; Ossa, 2011; Mossay and Tabuchi, 2015).
 

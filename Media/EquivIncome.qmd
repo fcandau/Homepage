@@ -59,11 +59,11 @@ Enfin, la théorie de l'équité permet de sortir de l'impossibilité en consid�
 
 Revenons sur l'hypothèse d'indépendance des alternatives non pertinentes. Cet axiome est très restrictif, illustrons ceci à travers un exemple emprunté à Fleurbaey et Maniquet (2008). Soit deux agents Anne et Bob qui se partagent deux biens, du vin et du pain. Nous désirons comparer deux allocations z et z' illustrées par le graphique suivant.
 
-![Allocations z et z'](img/equiv_alloc.jpg)
+![Allocations z et z'](img/equiv_alloc.jpg){#fig-alloc}
 
 L'axiome des alternatives non pertinentes est trop restrictif car dans ce cas les allocations sont symétriques et on ne peut donc pas conclure en regardant uniquement ces deux alternatives (z ou z' c'est du pareil au même si on veut être impartial envers Bob et Anne). Pour sortir de l'indécision, il nous manque de l'information concernant les préférences des deux consommateurs. Rajoutons un peu d'info, imaginons que l'allocation z soit un équilibre walrassien à budget égaux. Dans un tel cas les TMS sont égaux, et personne ne désire bouger de cet équilibre qui est Pareto optimal. La situation est très différente pour l'allocation z' où Anne envie le panier de Bob (qui lui préfère sa situation à celle d'Anne). Dans un tel cas le choix social est plus facile à faire, il semble raisonnable de préférer l'allocation z.
 
-![Equilibre walrassien et envie](img/equiv_walras.png)
+![Choix social pour z](img/equiv_walras.png){#fig-walras}
 
 Fleurbaey, Suzumura et Tadenuma (2005) ont ainsi pris en compte une information plus précise sur les préférences. Ils ont opéré trois extensions:
 
@@ -73,7 +73,7 @@ Fleurbaey, Suzumura et Tadenuma (2005) ont ainsi pris en compte une information 
 
 Illustrons cette solution pour Anne (numéro 1) et Bob (numéro 2). Le rayon particulier part de l'origine des axes et est dirigé vers la dotation globale de l'économie (omega sur la Figure ci-dessous). Il suffit alors de connaître une partie de la courbe d'indifférence comprise entre la situation de l'agent et ce rayon. En d'autres termes, on pose à Anne et à Bob la question suivante: quelle est la part des dotations globales qui laisserait votre satisfaction inchangée. On obtient ainsi les lambda1 et lambda2 et les lambda'1 et lambda'2 (voir Figure). Il suffit ensuite de les additionner pour comparer les deux allocations.
 
-![Lambda et revenu équivalent](img/equiv_lambda.png)
+![Comparaison des allocations](img/equiv_lambda.png){#fig-lambda}
 
 Il est important de noter que l'évaluation lambda1+lambda2 et lambda'1+lambda'2 n'a pas de valeur en soi, ce qui compte c'est simplement le classement lambda1+lambda2 > lambda'1+lambda'2. L'impossibilité d'Arrow a été levée tout en évitant les comparaisons interpersonnelles.
 

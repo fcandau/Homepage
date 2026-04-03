@@ -3,15 +3,16 @@ title: "Not Made in France : Déficit commercial et compétitivité"
 date: "Janvier 2017"
 ---
 
-Le déficit commercial est un sujet qui revient sans cesse et qui inquiète nos politiques. Aux USA, le débat a été relancé par la nomination de Peter Navarro à la tête du National Trade Council et de ses [déclarations alarmistes](https://www.bloomberg.com/view/articles/2016-12-28/trump-s-trade-chief-peter-navarro-makes-a-rookie-mistake) concernant le déficit commercial américain.
+Le déficit commercial est un sujet qui revient sans cesse et qui inquiète nos politiques. Aux USA, le débat a été lancé initiallement par la nomination de Peter Navarro à la tête du National Trade Council et de ses [déclarations alarmistes](https://www.bloomberg.com/view/articles/2016-12-28/trump-s-trade-chief-peter-navarro-makes-a-rookie-mistake) concernant le déficit commercial américain. Ce sujet est ensuite devenu la marotte préférée du président Donald Trump.
 
-En France, ces commentaires ont été moins nombreux depuis le pic de -74,2 Md€ atteint en 2011, mais des déclarations similaires ont très souvent été faites (et le seront à nouveau dans le futur).
+En France, ces commentaires ont été moins nombreux depuis le pic de -74,2 Md€ atteint en 2011, et la récente baisse du déficit, mais des déclarations similaires ont très souvent été faites (et le seront à nouveau dans le futur).
+
+![Déficit commercial français](img/nmf_deficit.png){#fig-deficit}
+
 
 Pour [F. Bayrou](http://www.liberation.fr/france/2012/02/25/deficit-commercial-et-emploi-l-equation-trop-parfaite-de-bayrou_798634), le déficit commercial, c'était le "problème central":
 
 > "lorsque un pays s'appauvrit tous les mois, les emplois s'en vont. Soixante-dix milliards, c'est l'équivalent de la totalité du salaire annuel, avec les charges, de plus de 2 millions de salariés. Comme on a 2,5 millions de chômeurs à temps plein… Il ne faut pas chercher plus loin les raisons".
-
-![Déficit commercial français](img/nmf_deficit.png)
 
 Pour le [FN](http://www.frontnational.com/2015/12/deficit-commercial-la-politique-economique-du-gouvernement-va-de-mal-en-pis/), même combat:
 
@@ -19,13 +20,13 @@ Pour le [FN](http://www.frontnational.com/2015/12/deficit-commercial-la-politiqu
 
 et ainsi de suite, vous trouverez les mêmes points de vue à gauche, droite et extrême gauche. Ces politiques expriment d'ailleurs sans doute ce qu'une partie de la population pensent; face à la concurrence internationale de pays à bas salaires, nos industries ne peuvent pas être compétitives. La mondialisation est à la base d'une désindustrialisation et d'une perte de compétitivité. Mais le déficit commercial est-il la preuve de cette perte de compétitivité? Et surtout, est-ce grave et désire t-on à tout prix un excédent commercial?
 
-Précisons tout d'abord une égalité comptable: une balance commerciale déficitaire est avant tout l'indication qu'un pays épargne moins qu'il n'investit. De cette égalité, on peut rapidement déduire qu'une des façons simples (et sans doute stupide) pour réduire les déficits, est de réduire les investissements des entreprises, des ménages et de l'Etat. C'est précisément ce qu'il s'est passé dans les nombreux pays qui ont subi des politiques d'austérité et d'ajustement (l'Espagne, le Portugal, la Grèce, etc.).
+Précisons tout d'abord une égalité comptable: une balance commerciale déficitaire est avant tout l'indication qu'un pays épargne moins qu'il n'investit. De cette égalité, on peut rapidement déduire qu'une des façons simples (souvent utilisée et pourtant contreproductive) pour réduire les déficits, est de réduire les investissements des entreprises, des ménages et de l'Etat. C'est précisément ce qu'il s'est passé dans les nombreux pays qui ont subi des politiques d'austérité et d'ajustement (l'Espagne, le Portugal, etc.). Ces pays sont aujourd'hui présentés comme des exemples en termes de compétitivité et de performance à l'export, mais c'est oublier que l'on croit toujours plus vite lorsqu'on part de très bas.
 
-En effet, la baisse généralisée de l'investissement, et donc de la demande de biens et de services, se traduit par du chômage et, à terme, par une baisse des salaires (et une hausse de l'épargne de précaution) qui rend l'économie plus compétitive.
+En effet, la baisse généralisée de l'investissement, et donc de la demande de biens et de services, se traduit par du chômage et, à terme, par une baisse des salaires (et une hausse de l'épargne de précaution) qui rend l'économie plus compétitive et améliore ainsi la balance commerciale. C'est le choix réalisé par l'Allemagne et sa politique de modération salariale et de fragmentation internationale de son appareil productif. Voir [Thomas Piketty](https://www.lemonde.fr/blog/piketty/2017/01/05/de-la-productivite-en-france-en-allemagne-et-ailleurs/) pour une comparaison France/Allemagne plus approfondie.
 
 La situation allemande est intéressante, dans la mesure où l'excédent commercial est souvent vu comme l'exemple d'une industrie forte et conquérante. Vous remarquerez pourtant, sur le graphique ci-dessous, que l'Allemagne subit tout de même une désindustrialisation marquée et une perte de ses emplois industriels. Enfin, si la spécialisation industrielle de l'Allemagne sur l'automobile, est depuis longtemps un atout, elle pourrait bien être une faiblesse dans l'avenir comme nous l'enseigne l'exemple de Détroit.
 
-![Emploi industriel France Allemagne](img/nmf_fred.png)
+![Emploi industriel France Allemagne](img/nmf_fred.png){#fig-fred}
 
 En clair le solde de la balance commerciale n'est pas la bonne boussole qui nous permettrait de savoir si le pays avance, ou pas, dans la bonne direction. La désindustrialisation, par contre, est un sujet bien plus important et aussi plus complexe.
 
@@ -37,9 +38,7 @@ D'autre part, l'industrie moderne se caractérise par deux éléments, l'un posi
 
 Le fait que l'industrie soit intensive en capital, implique qu'elle fonctionne sous rendements croissants, la production coûte d'autant moins qu'elle est réalisée à grande échelle. En conséquence, pour qu'une industrie soit rentable, elle doit se développer sur plusieurs marchés. Mais cet objectif bute sur deux problèmes essentiels, le monde est de plus en plus protectionniste, et les coûts fixes de production industrielle ont déjà été payés dans de nombreux pays (e.g. USA, Allemagne, Chine), ce qui rend l'entrée sur ces marchés difficile.
 
-![Slip bleu blanc rouge](img/nmf_slip.jpg)
-
-<p style="text-align: center;">Mmm quel titre pour cette photo...le globe pour du made in France?</p>
+![Mmm quel titre pour cette photo...le globe pour du made in France?](img/nmf_slip.jpg)
 
 Dans ces conditions, l'inaction des politiques, souvent décriées, est compréhensible, il est difficile pour un gouvernement d'être cet "Etat stratège" qui saurait faire le tri entre les industries en déclin, qui constitue une dépense publique vaine, et les industries de demain qui assureront des hauts salaires et des emplois.
 

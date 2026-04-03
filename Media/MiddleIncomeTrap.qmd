@@ -15,6 +15,6 @@ More precisely they distinguish three different types of trapped regions (p.3-4)
 
 By looking at their map (see below), it seems that for different reasons, many regions in France and Italy are in a middle income trap!
 
-![Map of EU regions in middle-income trap](img/mit_map.png)
+![Map of EU regions in middle-income trap](img/mit_map.png){#fig-map}
 
 To analyse the determinants of being trapped, they use a simple estimation in panel data with very standard explanatory variables (innovation, political governance and so on) and fixed effects. This analysis may be biased (endogenous issues), but it is not an academic paper and for a report that has the aim to attract the interest of policy makers at the regional scale, I think it is a worth reading descriptive analysis. This report may be also useful for graduate students interested in urban/regional economics.

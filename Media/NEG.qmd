@@ -9,13 +9,13 @@ To introduce "its" New Economic Geography, Krugman (1991) starts with facts:
 
 Here a picture of urban areas in 2010 (in red) in the US...
 
-![US Urban Areas 2010](img/neg_us_urban.png)
+![US Urban Areas 2010](img/neg_us_urban.png){#fig-urban}
 
 Not very red...
 
 ... and here a picture of light pollution by night in Europe where the [Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) or Core-Periphery scheme may be observed.
 
-![Europe light pollution](img/neg_europe_light.jpg)
+![Europe light pollution](img/neg_europe_light.jpg){#fig-light}
 
 People are indeed not evenly distributed across space. Why? Mainly in reason of a trade-off between increasing returns and trade costs according to Krugman (1991). To understand this, think of the industrial revolution which by reducing dramatically trade costs and by fostering increasing returns (and thus wages and/or profits) in cities can explain partially the agglomeration of activities there.
 
@@ -45,7 +45,7 @@ In France, [Combes et al. (2008)](https://hal-pjse.archives-ouvertes.fr/halshs-0
 
 This is also a well verified fact in France, where the Core-Periphery pattern, considered by Gravier (1947) as "Paris and the French desert" has known a strong process of dispersion. Paris has lost activities and people relative to Marseille, Lyon, Lille and many other large cities. In contrast, at the regional level, agglomeration has been the rule, these cities attracting activities from their immediate proximity. To illustrate this simply, just look this old "leopard" map of France (in red positive change of the population between 1975 and 1990, in green negative change). Obviously many other things can be said about this map, e.g. urban sprawl, but this is another story.
 
-![France leopard map 1975-1990](img/neg_leopard.png)
+![France leopard map 1975-1990](img/neg_leopard.png){#fig-leopard}
 
 ## International economics
 
@@ -53,21 +53,21 @@ Krugman (1991) is a model belonging to the field of the regional economics becau
 
 Economists on international economics in the 90s were increasingly interested in trade of intermediate goods, this trade representing a growing part of international trade. Thus when Venables (1996) and [Krugman and Venables (1995)](http://www.ifn.se/wfiles/wp/wp430.pdf) propose a new version of Krugman (1991) with international trade of intermediate goods, the NEG takes a new dimension. The virtuous circle explaining agglomeration with this model is quite realistic. The agglomeration of firms producing intermediate goods leads to more competition implying a decrease of price that makes firms of the final goods more competitive, increasing their demand in local intermediate goods to save trade costs which fosters more agglomeration of firms in the intermediate sector and so on.
 
-![Krugman-Venables model](img/neg_kv95.png)
+![Krugman-Venables model](img/neg_kv95.png){#fig-kv95}
 
 In this model, as in Krugman (1991), trade integration leads to a core-periphery pattern but this time at the international level. Interestingly, trade integration first leads to a divergence of income, and then when trade costs decrease even more, to convergence: the periphery gains in terms of real incomes, while the core nation can be a loser of this deeper integration. Gordon Hanson, a former Ph-D student of Paul Krugman, is certainly one of the authors of the NEG that has surpassed the master on this topic, with its analysis on the [detrimental effect of trade with China on the U.S. economy](http://economics.mit.edu/files/11602) in a series of articles co-written with David Autor and David Dorn.
 
-![Autor Dorn Hanson figure](img/neg_autor_dorn.png)
+![Autor Dorn Hanson figure](img/neg_autor_dorn.png){#fig-adh}
 
 ## Urban economics
 
 Finally Krugman (1991) becomes urban with Fujita and Krugman (1995) from which the following Figure is borrowed.
 
-![Fujita-Krugman circular causation](img/neg_circular.png)
+![Fujita-Krugman circular causation](img/neg_circular.png){#fig-circular}
 
 The virtuous circle is exactly the same as in Krugman (1991) but now used to analyze a typical topic of urban economics, the emergence of an urban system. This first paper is mainly on the conditions of agglomeration in a single city, but [Krugman (1996) already questions the size distribution of cities in the United States](http://www.elitovar.net/wp-content/uploads/2014/08/1996_JPIE_KRugman_MysteryHierarchicalCities.pdf) which follows "a simpler power law: the number of cities whose population exceeds S is proportional to 1/S".
 
-![Rank-size distribution](img/neg_ranksize.png)
+![Rank-size distribution](img/neg_ranksize.png){#fig-ranksize}
 
 Finally [Fujita, Krugman and Mori (1999) analyze the evolution of hierarchical urban systems](http://www.sciencedirect.com/science/article/pii/S001429219800066X).
 
@@ -89,7 +89,7 @@ In the lyrics you can hear:
 
 <p style="text-align: center;">***That the emperor wears no clothes***</p>
 
-![Paul Krugman at an Arcade Fire concert](paul_arcade.png){width=320}
+![Paul Krugman at an Arcade Fire concert](img/paul_arcade.png){width=320}
 
 This is a good transition for what is following (maybe in two weeks): the kids of the second wave of the NEG, their disillusion and their success.
 

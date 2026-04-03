@@ -13,9 +13,7 @@ Si l'on quitte maintenant la période bénie de Meade (1952!), et que l'on suppo
 
 Mais au fait la subvention est-elle la seule solution? Deux autres solutions peuvent être complémentaires pour résoudre les problèmes d'externalité, la première est la réglementation (ici concernant les insecticides) la seconde proposée par Coase est de créer un marché. Paradoxal, non? Approfondissons. Pour Coase, si les coûts de transaction sont suffisamment faibles et si les droits de propriété sont clairement définis alors les externalités peuvent être internalisées par des contrats privés. Avec la formidable baisse des coûts de transport, il est devenu possible d'acheter des abeilles et **de les transporter d'un coin des USA à un autre, simplement pour booster la production agricole** (voir photo ci-dessous pour illustration).
 
-![Transport d'abeilles](img/betes_transport.jpg)
-
-<p style="text-align: center;">Oups...ça va piquer</p>
+![Oups, ça va piquer](img/betes_transport.jpg){#fig-transport}
 
 Un marché international s'est même développé, les abeilles ont un prix et plus elles sont rares, plus elles sont chères d'où une incitation à investir dans ces petites bestioles...
 
@@ -25,21 +23,21 @@ Pour ce qui est du commerce inter, allons sur le site des Nations Unies, [Comtra
 
 Première constatation, il existe bel et bien un commerce international d'abeilles vivantes. Les Etats-Unis exportent ainsi des abeilles pour une valeur de 7 millions de dollars (le principal partenaire est le Canada)! Les USA sont un exportateur net, ce qui n'était pas évident compte tenue des difficultés rencontrées par les apiculteurs dans les années récentes. En effet les colonies d'abeilles américaines ont été affectées par un [syndrome](http://fr.wikipedia.org/wiki/Syndrome_d%27effondrement_des_colonies_d%27abeilles) d'effondrement important (colony collapse disorder), dans les années 2006-2007 près de 30% de la population a été décimée. Mais pour reprendre l'expression de Meade (et HOS) il semble que la spécialisation agricole induise un avantage relatif via un "unpaid factor of production" (le pollen de la prod agri) qui, allié sans doute à un investissement important, a permis cette position d'exportateur net.
 
-![Commerce d'abeilles USA](img/betes_bee_us.png)
+![Commerce d'abeilles USA](img/betes_bee_us.png){#fig-bee-us}
 
 La France est un plus petit acteur et elle est importatrice nette. Poursuivons notre étude de l'Hexagone concernant l'importation d'un autre insecte pour en analyser ses effets.
 
-![Commerce d'abeilles France](img/betes_bee_fr.png)
+![Commerce d'abeilles France](img/betes_bee_fr.png){#fig-bee-fr}
 
 ## Conséquences des importations de coccinelles asiatiques en France
 
 Non seulement il y a un commerce d'abeilles, mais il y a aussi un commerce de coccinelles dont les motivations ne sont pas si éloignées de l'exemple précédent. Selon l'une des légendes qui entoure cet insecte, au moyen-âge alors que les pucerons mettaient en péril les récoltes, les fermiers auraient prié pour une solution miraculeuse et c'est alors qu'un essaim de coccinelle les auraient sauvé de la famine en dévorant les nuisibles, d'où leur nom de "bêtes à bon Dieu". A notre époque où la diminution des pesticides semble nécessaire, il est apparu intéressant d'utiliser ce porte bonheur. Nos coccinelles européennes (cocs à deux points) étant peu voraces, on a importé des coccinelles asiatiques, dénommées *Harmonia axyridis*.
 
-![Harmonia axyridis](img/betes_harmonia.png)
+![Harmonia axyridis](img/betes_harmonia.png){#fig-harmonia}
 
 Seul problème, l'espèce est devenue invasive... [Maia David](http://faere.fr/pub/Conf2014/harmonia_FAERE-3.pdf), que nous avons le plaisir d'accueillir dans notre labo cette année, nous a présenté son article sur le sujet et l'invasion est indéniable comme en témoigne ces cartes issues de son étude co-écrite avec Raja Chakir, Estelle Gozlan et Aminata Sangare.
 
-![Invasion coccinelles asiatiques en France](img/betes_invasion.png)
+![Invasion coccinelles asiatiques en France](img/betes_invasion.png){#fig-invasion}
 
 Même la Corse est touchée par l'invasion.
 
@@ -47,7 +45,7 @@ Est-ce un problème? Ces coccinelles sont une atteinte à la biodiversité (disp
 
 En fait, les nuisances sont telles que Chakir et al. (2014) montrent à l'aide d'une méthode de *choice experiment*, que le consentement à payer de la population française (l'échantillon est représentatif de la pop française et pas seulement d'une région ou d'un groupe, ce qui est rare dans ce type d'étude) pour réduire la population de cette ladybird est loin d'être négligeable.
 
-![Coccinelles asiatiques sur vignes](img/betes_invasion2.png)
+![Coccinelles asiatiques sur vignes](img/betes_invasion2.png){#fig-vignes}
 
 Bon alors, on fait quoi?
 

@@ -15,7 +15,7 @@ Outre cet effet direct de l'expérience, le vin est aussi un investissement plus
 
 Pour conclure, comment expliquer la forte augmentation des prix observés dans les années 2000 sur les 1000 plus grands vins du monde (voir graph ci-dessous)?
 
-![Liv-ex Fine Wine 1000 Index](img/vin_livex.png)
+![Liv-ex Fine Wine 1000 Index](img/vin_livex.png){#fig-livex}
 
 Cette forte augmentation peut en partie s'expliquer par la croissance des revenus dans les pays émergents*. Les grands crus sont des produits de luxe, c'est à dire des biens dont l'élasticité revenu est supérieure à un, d'où un effet direct et puissant de la croissance sur les prix. En effet puisque la demande pour ces vins augmente encore plus vite que les revenus et que l'offre est fixe sur le court terme, les prix ont flambé. Je vous laisse faire le graphique offre/demande. Rajoutez à ceci que les vins sont des placements financiers (liquides) assez prisés et vous voilà en mesure d'expliquer la hausse des prix (puis stagnation) du vin avec des arguments micro de base.
 

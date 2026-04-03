@@ -14,6 +14,9 @@ body {
   max-width: 900px;
   margin: 0 auto;
   padding: 1rem 2rem 2rem;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 /* ===== Links ===== */
@@ -206,6 +209,24 @@ img {
   margin: 1.5rem auto;
   max-width: 100%;
   height: auto;
+}
+
+/* ===== Figure captions ===== */
+figcaption, .figure-caption {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+}
+
+.quarto-figure {
+  text-align: center;
+}
+
+.quarto-figure-center figcaption {
+  text-align: center;
 }
 
 /* ===== Footer ===== */

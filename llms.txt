@@ -1,6 +1,6 @@
 # Fabien Candau — Academic Website
 
-> Personal website of Fabien Candau, professor of economics at Université de Pau et des Pays de l'Adour (UPPA), UMR TREE, France.
+> Personal website of Fabien Candau, professor of economics at Université de Pau et des Pays de l'Adour (UPPA), UMR TREE, France. Built with Quarto.
 
 ## Research Fields
 
@@ -12,29 +12,53 @@
 
 - [Home](index.html): Bio, contact, work in progress
 - [Publications](publication.html): Full list of published articles with abstracts, DOIs, working papers, and replication data
-- [Media](media.html): Blog posts and videos on economics (pollution havens, tax competition, trade wars, pharmaceutical industry, China's savings)
+- [Media](media.html): Blog posts and videos on economics
 - [Courses](course.html): Teaching at UPPA — econometrics, macroeconomics, economic geography, microeconomics
 
 ## Working Papers (PDFs)
 
-- [The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests](Research/DiD11.pdf) — with F. Lafferrere
+- [How a Sustainable Maritime Traffic Can Shape California's Kelp Forests](Research/DiD11.pdf) — with F. Lafferrere
 - [Invasive Species and Ballast Water From the United States](Research/BWE_IAS.pdf) — with F. Lafferrere and J. Schlick
 - [The Effect of High-Speed Internet on Working from Home](Research/High_Speed_Internet_Remote_Work.pdf) — with L. Belloy and Y. Abdoulhazis-Oumarou
 - [Labor Adjustment Costs in French Viticulture: Evidence from Trade-Cost Shocks](Research/Adjust_L_Demand.pdf) — with L. Latruffe
-- [Promoting Social Housing: Insights from Redevelopment Policies in Paris](Research/Paris_modif_v8.pdf) — with L. Belloy (Journal of Housing Economics, 2025)
 
 ## Selected Published Articles (with detailed LLM guidance files)
 
 - Candau & Dienesch (2017). "Pollution Haven and Corruption Paradise." *JEEM*, 85, 171–192. DOI: 10.1016/j.jeem.2017.05.005 → [Detailed guidance for LLMs](Research/PHH_llms.txt)
 - Candau, Regnacq & Schlick (2022). "Climate Change, Comparative Advantage and the Water Capability to Export Agricultural Goods." *World Development*, 158. DOI: 10.1016/j.worlddev.2022.105963 → [Detailed guidance for LLMs](Research/WaterRCA_llms.txt)
-- Candau & Gbandi (2023). "Climate Change Fosters International Cooperation: Evidence from Water Treaties." *Environmental and Resource Economics*, 85, 587–614. DOI: 10.1007/s10640-023-00776-4 → [Detailed guidance for LLMs](Research/WaterTreaties_llms.txt)
-- Belloy & Candau (2025). "Promoting Social Housing: Insights from Redevelopment Policies in Paris." *Journal of Housing Economics*, 68, 102061. DOI: 10.1016/j.jhe.2025.102061 → [Detailed guidance for LLMs](Research/SocialHousing_llms.txt)
+- Candau & Gbandi (2023). "Climate Change Fosters International Cooperation: Evidence from Water Treaties." *ERE*, 85, 587–614. DOI: 10.1007/s10640-023-00776-4 → [Detailed guidance for LLMs](Research/WaterTreaties_llms.txt)
+- Belloy & Candau (2025). "Promoting Social Housing: Insights from Redevelopment Policies in Paris." *JHE*, 68, 102061. DOI: 10.1016/j.jhe.2025.102061 → [Detailed guidance for LLMs](Research/SocialHousing_llms.txt)
 - Candau & Dienesch (2015). "Spatial Distribution of Skills and Regional Trade Integration." *Annals of Regional Science*, 54(2), 451–488. DOI: 10.1007/s00168-015-0662-4 → [Detailed guidance for LLMs](Research/SpatialSkills_llms.txt)
+- Candau, Gbandi & Guepie (2022). "Beyond the Income Effect of International Trade on Ethnic Wars in Africa." *ETIC*, 30(3), 419–661. DOI: 10.1111/ecot.12300 → [Detailed guidance for LLMs](Research/TradeWar_llms.txt)
+- Candau, Guepie & Schlick (2019). "Moving to Autarky, Trade Creation and Home Market Effect." *Applied Economics*, 51(30), 3293–3309. DOI: 10.1080/00036846.2019.1566691 → [Detailed guidance for LLMs](Research/AfricaRTA_llms.txt)
 - Candau (2008). "Good Governance, Trade and Agglomeration." *Papers in Regional Science*, 87(4), 483–504. Martin Beckmann Prize (RSAI).
+
+## Blog Posts
+
+- [Pollution Havens are not a Myth!](Media/Haven.html) — research outreach
+- [Taming Tax Competition](Media/TamingTaxComp.html) — research outreach
+- [Regional Trade Agreements in Africa](Media/AfricaRTA.html) — research outreach
+- [The Triumph of the New Economic Geography](Media/NEG.html) — research outreach
+- [Le revenu équivalent : au-delà du PIB](Media/EquivIncome.html) — research outreach
+- [L'industrie pharmaceutique](Media/Pharma.html)
+- [Guerre commerciale éclair ?](Media/GuerreCom.html)
+- [Excédent d'épargne en Chine](Media/EpargneChine.html)
+- [La mondialisation, ça compte pour d'Uber !](Media/Mondialisation.html)
+- [Not Made in France : Déficit commercial et compétitivité](Media/NotMadeInFrance.html)
+- [EU Regions and the Middle-Income Trap](Media/MiddleIncomeTrap.html)
+- [Taxe sur la Valeur Ajoutée](Media/TVA.html)
+- [Le match France versus Royaume-Uni](Media/FranceVsUK.html)
+- [COP21 et probabilités de réchauffement](Media/COP21.html)
+- [L'incroyable commerce des petites bêtes](Media/PetitesBetes.html)
+- [Conseils aux doctorants](Media/ConseilsDoctorants.html)
+- [Economie du vin](Media/Vin.html)
+- [Un hommage d'enfer à Becker](Media/Becker.html)
+- [Von Thünen en Amazonie](Media/VonThunen.html)
+- [60 millions d'Européens ont traversé l'Atlantique](Media/HistoricalMigration.html)
+- [De Jules Verne à la mondialisation](Media/HistoricalTradeCosts.html)
 
 ## Contact
 
 - Email: fabien.candau@univ-pau.fr
-- Address: Av. Poplawski, UPPA, 64000 Pau, France
 - [Google Scholar](https://scholar.google.com/citations?user=Cy_hOg0AAAAJ)
 - [GitHub](https://github.com/fcandau)

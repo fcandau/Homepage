@@ -3,7 +3,7 @@ title: "La mondialisation, ça compte pour d'Uber !"
 date: "Décembre 2016"
 ---
 
-![Crise laitière](img/mondialisation_laiterie.jpg)
+![Production de beurre](img/mondialisation_laiterie.jpg){#fig-laiterie}
 
 Est-ce la mondialisation qui crée les inégalités ou le progrès technique? Evidemment ce sont les deux, et il est sans doute de plus en plus difficile de les séparer, mais c'est une habitude bien répandue que de chercher LE coupable. Dans les années 90, la mondialisation était considérée comme non coupable (selon les termes même d'un titre de [Paul Krugman](https://www.amazon.fr/Mondialisation-nest-pas-coupable-libre-%C3%A9change/dp/270713113X)). Puis dans les années 2000, les certitudes ont commencé à vaciller, l'entrée de la Chine dans le commerce international a eu des conséquences assez importantes sur le marché du travail. On pouvait ainsi [lire le même Krugman en 2007 sur vox-eu](http://voxeu.org/article/trade-and-inequality-revisited):
 
@@ -29,9 +29,7 @@ J'ai surligné trivial, car il est hors de question de dire que la mondialisatio
 
 Oh, et si vous pensez que la mondialisation a accouché *à elle seule* d'un éléphant qui a fait beaucoup parlé de lui sur les réseaux récemment...
 
-![Elephant chart - Lakner Milanovic](img/mondialisation_elephant.png)
-
-<p style="text-align: center;">Figure 1: ça trompe énormément?</p>
+![ça trompe énormément?](img/mondialisation_elephant.png){#fig-elephant}
 
 ... lisez cet article de [Caroline Freund](https://piie.com/blogs/realtime-economic-issues-watch/deconstructing-branko-milanovics-elephant-chart-does-it-show) et cette réponse de [Lakner et Milanovic](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/LIS%20Center/elephant_debate-4,-reformatted.pdf) dont la prudence illustre l'intelligence (voir la section "B. Explanation"):
 
