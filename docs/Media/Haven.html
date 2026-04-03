@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
   <h1>Fabien Candau</h1>
   <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="publication.html">Publications</a></li>
-      <li><a href="media.html">Media</a></li>
-      <li><a href="course.html">Courses</a></li>
+      <li><a href="../Homepage/index.html">Home</a></li>
+      <li><a href="../Homepage/publication.html">Publications</a></li>
+      <li><a href="../Homepage/media.html">Media</a></li>
+      <li><a href="../Homepage/course.html">Courses</a></li>
     </ul>
   </nav>
 </header>
@@ -116,10 +116,13 @@ ul.task-list li input[type="checkbox"] {
     var links = document.querySelectorAll('header nav a');
     links.forEach(function(link) {
       var href = link.getAttribute('href');
-      if (path.endsWith(href) || (href === 'index.html' && (path.endsWith('/') || path.endsWith('/index.html')))) {
+      if (path.endsWith(href.replace('/Homepage', ''))) {
         link.classList.add('active');
       }
-      if (path.includes('/Media/') && href === 'media.html') {
+      if (href.includes('index.html') && (path.endsWith('/') || path.endsWith('/Homepage/') || path.endsWith('/index.html'))) {
+        link.classList.add('active');
+      }
+      if (path.includes('/Media/') && href.includes('media.html')) {
         link.classList.add('active');
       }
     });
