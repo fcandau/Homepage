@@ -9,7 +9,7 @@ title-block-style: none
 ::: {.bio}
 Welcome! I am a professor of economics at [UPPA (UMR TREE)](https://tree.univ-pau.fr/) in France.
 
-I work on many topics. Perhaps too many, but that is my nature and my pleasure. There is an old parable, dating back to [Erasmus](https://en.wikipedia.org/wiki/Erasmus) and revisited by [Isaiah Berlin](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox), distinguishing thinkers between hedgehogs, who see the world through one big idea, and foxes, who roam across many questions without a single organizing principle. I am decidedly a fox. Rather than applying one framework to every problem, I have followed questions wherever they led — from cities to globalization to the environment — and each detour has shaped how I think about the next one. Yet even a fox picks up a few convictions along the way. From economic geography, I have learned that activities operating under increasing returns — industry, software, platforms — cast a long shadow on cities, producing agglomeration rents and hysteresis. From international economics, I have learned that globalization carries hidden costs and that large countries exert a disproportionate pull on the world economy. And from the environmental and ecological sciences, I have come to see that many of our policies are incomplete, sometimes backfire, and remain far too anthropocentric. You will not find a grand theory here, but a bit of many of them.
+You can find here my wrttings.
 :::
 
 ::: {.contact}
