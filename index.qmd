@@ -9,7 +9,7 @@ title-block-style: none
 ::: {.bio}
 Welcome! I am a professor of economics at [UPPA (UMR TREE)](https://tree.univ-pau.fr/) in France.
 
-You can find here my wrttings.
+You can find my writings here.
 :::
 
 ::: {.contact}
