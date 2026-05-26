@@ -47,7 +47,7 @@ You can find my writings here.
 <p class="links"><a href="Research/High_Speed_Internet_Remote_Work.pdf">Working paper</a> <a href="Research/HSI_all.zip">Matlab and R code</a></p>
 </li>
 <li>
-<strong>Labor Adjustment Costs in French Viticulture: Evidence from Trade-Cost Shocks</strong>
+<strong>Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture</strong>
 <p class="coauthors">With Laure Latruffe.</p>
 <p class="links"><a href="Research/Adjust_L_Demand.pdf">Working paper</a></p>
 </li>

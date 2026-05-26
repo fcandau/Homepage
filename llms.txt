@@ -20,7 +20,7 @@
 - [How a Sustainable Maritime Traffic Can Shape California's Kelp Forests](Research/DiD11.pdf) — with F. Lafferrere
 - [Invasive Species and Ballast Water From the United States](Research/BWE_IAS.pdf) — with F. Lafferrere and J. Schlick
 - [The Effect of High-Speed Internet on Working from Home](Research/High_Speed_Internet_Remote_Work.pdf) — with L. Belloy and Y. Abdoulhazis-Oumarou
-- [Labor Adjustment Costs in French Viticulture: Evidence from Trade-Cost Shocks](Research/Adjust_L_Demand.pdf) — with L. Latruffe
+- [Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture](Research/Adjust_L_Demand.pdf) — with L. Latruffe
 
 ## Selected Published Articles (with detailed LLM guidance files)
 
