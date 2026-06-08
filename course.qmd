@@ -7,7 +7,7 @@ description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconom
 
 **Econometrics (M1, 2023–)** — lecture slides:
 
-1. [The Linear Model](https://fcandau.github.io/Econometry_M1/Basic/Lecture/basics.pdf)
+1. [The Linear Model](https://fcandau.github.io/Econometry_M1/Basic/Lecture/basics_web.html) · [PDF](https://fcandau.github.io/Econometry_M1/Basic/Lecture/basics.pdf)
 2. [Time Series](https://fcandau.github.io/Econometry_M1/time_series/Lecture/timeseries.pdf)
 3. [Panel Data](https://fcandau.github.io/Econometry_M1/Panel/Lecture/panel.pdf)
 4. [Instrumental Variables & Shift-Share](https://fcandau.github.io/Econometry_M1/IV_Shift_Share/Lecture/IV_ShiftShare.pdf)
