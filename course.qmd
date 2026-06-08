@@ -11,6 +11,7 @@ description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconom
 2. [Time Series](https://fcandau.github.io/Econometry_M1/time_series/Lecture/timeseries.pdf)
 3. [Panel Data](https://fcandau.github.io/Econometry_M1/Panel/Lecture/panel.pdf)
 4. [Instrumental Variables & Shift-Share](https://fcandau.github.io/Econometry_M1/IV_Shift_Share/Lecture/IV_ShiftShare.pdf)
+5. [Difference-in-Differences](https://fcandau.github.io/Econometry_M1/DiD/Lecture/did.pdf)
 
 - [Inférence causale, Introduction (L3, 2021–)](https://elearn.univ-pau.fr/enrol/index.php?id=16980)
 - [Econometrics Applied to Energy and Environmental Issues (M1, 2022–)](https://elearn.univ-pau.fr/enrol/index.php?id=19945)
