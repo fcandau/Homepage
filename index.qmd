@@ -19,7 +19,7 @@ You can find my writings here.
 :::
 :::
 
-## Work in Progress
+## Working Papers
 
 ::: {.wip-columns}
 <div class="wip-col">
@@ -37,6 +37,11 @@ You can find my writings here.
 <h3>Economic Geography</h3>
 <ul class="paper-list">
 <li>
+<strong>Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914</strong>
+<p class="coauthors">With Christophe Lévêque.</p>
+<p class="links"><a href="Research/ATS2.pdf">Working paper</a></p>
+</li>
+<li>
 <strong>Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture</strong>
 <p class="coauthors">With Laure Latruffe.</p>
 <p class="links"><a href="Research/Adjust_L_Demand.pdf">Working paper</a></p>
@@ -48,6 +53,11 @@ You can find my writings here.
 ## Under Revision
 
 <ul class="paper-list">
+<li>
+R&amp;R at Ecological Economics: <strong>Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species</strong>
+<p class="coauthors">With Florian Lafferrere and Julie Schlick.</p>
+<p class="links"><a href="Research/BWE_IAS.pdf">Working paper</a></p>
+</li>
 <li>
 R&amp;R at Regional Science and Urban Economics: <strong>The Effect of High-Speed Internet on Working from Home</strong>
 <p class="coauthors">With Lauriane Belloy and Younoussa Abdoulhazis-Oumarou.</p>
