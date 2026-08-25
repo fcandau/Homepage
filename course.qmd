@@ -15,7 +15,20 @@ description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconom
 
 ## Macroéconomie
 
-- [Economie des Politiques Sociales (L3, 2024–)](https://elearn.univ-pau.fr/enrol/index.php?id=22477)
+**[Economie des Politiques Sociales (L2, 2024–)](https://elearn.univ-pau.fr/enrol/index.php?id=22477)** — lecture slides:
+
+1. Panorama de la protection sociale
+2. [Une brève histoire de la protection sociale](https://fcandau.github.io/pol_soc_slides/chap2_slides.pdf)
+3. L'assurance sociale obligatoire
+4. Les retraites
+5. La santé
+6. Les politiques familiales
+7. Le chômage et l'assurance chômage
+8. Pauvreté, inégalités et redistribution
+9. Financer la protection sociale, du travail aux autres assiettes
+
+Autres cours :
+
 - [Macroéconomie, Introduction (L1, 2006–2024)](https://elearn.univ-pau.fr/course/info.php?id=7372&lang=en)
 
 ## From Local to Global
