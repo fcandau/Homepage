@@ -17,7 +17,7 @@ description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconom
 
 **Economie des Politiques Sociales (L2, 2024–)** — lecture slides:
 
-1. Panorama de la protection sociale
+1. [Panorama de la protection sociale](https://fcandau.github.io/pol_soc_slides/chap1_slides.pdf)
 2. [Une brève histoire de la protection sociale](https://fcandau.github.io/pol_soc_slides/chap2_slides.pdf)
 3. L'assurance sociale obligatoire
 4. Les retraites
