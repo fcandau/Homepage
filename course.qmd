@@ -21,7 +21,7 @@ description: "Courses taught by Fabien Candau at UPPA: econometrics, macroeconom
 2. [Une brève histoire de la protection sociale](https://fcandau.github.io/pol_soc_slides/chap2_slides.pdf)
 3. L'assurance sociale obligatoire
 4. Les retraites
-5. La santé
+5. [La santé](https://fcandau.github.io/pol_soc_slides/chap5_slides.pdf)
 6. Les politiques familiales
 7. Le chômage et l'assurance chômage
 8. Pauvreté, inégalités et redistribution
