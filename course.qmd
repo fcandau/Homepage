@@ -14,6 +14,7 @@ Lecture slides:
 
 1. [The Gravity Equation: from Newton to Anderson and van Wincoop](https://fcandau.github.io/Trade_flows/Slides/Lecture1.pdf)
 2. [Estimating the Gravity Equation: PPML, internal trade, and staggered trade agreements](https://fcandau.github.io/Trade_flows/Slides/Lecture2.pdf)
+3. [Trade Policy Analysis: counterfactuals in general equilibrium](https://fcandau.github.io/Trade_flows/Slides/Lecture3.pdf)
 
 ## Geographical and Urban Economics
 
