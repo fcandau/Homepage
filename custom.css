@@ -261,3 +261,11 @@ footer {
     padding-right: 1rem;
   }
 }
+
+/* Featured course link (Courses page): dark red, and stays red once visited */
+a.feature,
+a.feature:visited,
+a.feature:hover {
+  color: #8b1a1a;
+  border-bottom-color: #8b1a1a;
+}

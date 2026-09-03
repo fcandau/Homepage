@@ -8,7 +8,7 @@ description: "Courses taught by Fabien Candau at UPPA: international trade, geog
 **Gravity Equation (M2, 2015–)**
 
 The whole course is written up, and this is the reference:
-**[The Trade Gravity Course](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.html)** — [PDF](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.pdf)
+**[The Trade Gravity Course](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.html){.feature}** — [PDF](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.pdf)
 
 Lecture slides:
 
