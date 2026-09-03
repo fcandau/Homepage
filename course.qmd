@@ -5,9 +5,16 @@ description: "Courses taught by Fabien Candau at UPPA: international trade, geog
 
 ## International Trade
 
-**Gravity Equation (M2, 2015–)** — the whole course is written up and available here:
+**Gravity Equation (M2, 2015–)**
 
-1. [Lecture on the Trade Gravity Equation](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.html) — [PDF](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.pdf)
+The whole course is written up, and this is the reference:
+**[The Trade Gravity Course](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.html)** — [PDF](https://fcandau.github.io/Trade_flows/Lecture/candau_lecture_gravity.pdf)
+
+Lecture slides:
+
+1. [The Gravity Equation: from Newton to Anderson and van Wincoop](https://fcandau.github.io/Trade_flows/Slides/gravity.pdf)
+
+The second lecture has no slides: it follows the written course directly.
 
 ## Geographical and Urban Economics
 
