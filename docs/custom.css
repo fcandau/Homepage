@@ -27,9 +27,9 @@ a {
   transition: border-color 0.2s, color 0.2s;
 }
 
-a:visited {
-  color: #999;
-}
+/* No :visited styling. These links are resources to come back to, not a
+   reading list, and the old grey (#999) fell below the WCAG AA contrast
+   threshold against the page background. */
 
 a:hover {
   color: #8b1a1a;

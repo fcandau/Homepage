@@ -146,9 +146,13 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 <footer>
-  <p>© 2025 Fabien Candau</p>
+  <p>© 2009–<span id="copyright-year">2026</span> Fabien Candau</p>
 </footer>
 <script>
+  (function() {
+    var y = document.getElementById('copyright-year');
+    if (y) { y.textContent = new Date().getFullYear(); }
+  })();
   (function() {
     var path = window.location.pathname;
     var siteRoot = '/Homepage/';
