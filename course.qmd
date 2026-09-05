@@ -47,7 +47,7 @@ Autres cours :
 3. [Instrumental Variables & Shift-Share](https://fcandau.github.io/Econometry_M1/IV_Shift_Share/Lecture/IV_ShiftShare.pdf)
 4. [Difference-in-Differences (I): the canonical design](https://fcandau.github.io/Econometry_M1/DiD/Lecture/did.pdf)
 5. [Difference-in-Differences (II): staggered adoption](https://fcandau.github.io/Econometry_M1/DiD_staggered/Lecture/did_staggered.pdf)
-6. [Difference-in-Differences (III): beyond the switch — doses, on/off treatments, triple differences](https://fcandau.github.io/Econometry_M1/DiD_advanced/Lecture/did_advanced.pdf)
+6. [Difference-in-Differences (III): beyond the switch — doses, on/off treatments](https://fcandau.github.io/Econometry_M1/DiD_advanced/Lecture/did_advanced.pdf)
 
 ## Microéconomie
 
