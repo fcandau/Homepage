@@ -53,7 +53,7 @@ include-in-header:
 
 ## Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species
 
-<p class="byline">Fabien Candau (UPPA, TREE), Florian Lafferrere (UPPA, TREE) and Julie Schlick (Université Paris-Saclay, RITM). Working paper, 2026. Revise and resubmit at <em>Ecological Economics</em>.</p>
+<p class="byline">Fabien Candau (UPPA, TREE), Florian Lafferrere (UPPA, TREE) and Julie Schlick (Université Paris-Saclay, RITM). Working paper, 2026. R&amp;R at <em>Ecological Economics</em>.</p>
 
 [PDF](../Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf) | [HAL (hal-05655879)](https://hal.science/hal-05655879)
 
