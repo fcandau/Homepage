@@ -39,7 +39,7 @@ You can find my writings here.
 <li>
 <strong>Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914</strong>
 <p class="coauthors">With Christophe Lévêque.</p>
-<p class="links"><a href="Research/ATS2.pdf">Working paper</a></p>
+<p class="links"><a href="Papers/AlgerianWineShock.html">Abstract</a> | <a href="Research/Candau_Leveque_Algerian_Wine_Shock.pdf">Working paper</a></p>
 </li>
 <li>
 <strong>Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture</strong>

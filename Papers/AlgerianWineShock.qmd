@@ -1,0 +1,74 @@
+---
+title: ""
+pagetitle: "Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914 — Candau and Lévêque"
+description: "Working paper by Fabien Candau and Christophe Lévêque on how the surge of Algerian wine imports between 1893 and 1912 shifted commune-level voting in France toward the socialist left across six legislative elections."
+title-block-style: none
+include-in-header:
+  text: |
+    <meta name="citation_title" content="Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914">
+    <meta name="citation_author" content="Candau, Fabien">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, CNRS, TREE">
+    <meta name="citation_author" content="Lévêque, Christophe">
+    <meta name="citation_author_institution" content="Université de Bordeaux, CNRS, INRAE, BxSE">
+    <meta name="citation_publication_date" content="2026">
+    <meta name="citation_online_date" content="2026/07/24">
+    <meta name="citation_technical_report_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_pdf_url" content="https://fcandau.github.io/Homepage/Research/Candau_Leveque_Algerian_Wine_Shock.pdf">
+    <meta name="citation_abstract_html_url" content="https://fcandau.github.io/Homepage/Papers/AlgerianWineShock.html">
+    <meta name="citation_language" content="en">
+    <meta name="citation_keywords" content="import competition; political radicalisation; economic geography">
+    <meta name="citation_abstract" content="Between 1893 and 1912, imports of Algerian wine quadrupled and discontent in France mounted. How did this Algerian shock reshape voting? We find that it pushed voting leftward. We interact département-level wine yields with this import surge to estimate the effect of trade exposure on commune-level election outcomes across six legislative elections. Exposed communes experienced a within-left substitution; the socialist vote share rose by 2 percentage points per standard deviation of exposure while the Radical share declined by a similar magnitude; the centre-right lost 5 to 6 percentage points; turnout increased.">
+    <meta name="DC.title" content="Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914">
+    <meta name="DC.creator" content="Fabien Candau">
+    <meta name="DC.creator" content="Christophe Lévêque">
+    <meta name="DC.date" content="2026">
+    <meta name="DC.type" content="Text.WorkingPaper">
+    <link rel="canonical" href="https://fcandau.github.io/Homepage/Papers/AlgerianWineShock.html">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914",
+      "name": "Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914",
+      "author": [
+        {"@type": "Person", "name": "Fabien Candau", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, CNRS, TREE"}},
+        {"@type": "Person", "name": "Christophe Lévêque", "affiliation": {"@type": "Organization", "name": "Université de Bordeaux, CNRS, INRAE, BxSE"}}
+      ],
+      "datePublished": "2026",
+      "inLanguage": "en",
+      "genre": "Working paper",
+      "keywords": "import competition, political radicalisation, economic geography",
+      "url": "https://fcandau.github.io/Homepage/Papers/AlgerianWineShock.html",
+      "encoding": {"@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": "https://fcandau.github.io/Homepage/Research/Candau_Leveque_Algerian_Wine_Shock.pdf"},
+      "abstract": "Between 1893 and 1912, imports of Algerian wine quadrupled and discontent in France mounted. How did this Algerian shock reshape voting? We find that it pushed voting leftward. We interact département-level wine yields with this import surge to estimate the effect of trade exposure on commune-level election outcomes across six legislative elections. Exposed communes experienced a within-left substitution; the socialist vote share rose by 2 percentage points per standard deviation of exposure while the Radical share declined by a similar magnitude; the centre-right lost 5 to 6 percentage points; turnout increased."
+    }
+    </script>
+---
+
+## Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914
+
+<p class="byline">Fabien Candau (UPPA, CNRS, TREE) and Christophe Lévêque (Université de Bordeaux, CNRS, INRAE, BxSE). Working paper, 2026.</p>
+
+[PDF](../Research/Candau_Leveque_Algerian_Wine_Shock.pdf)
+
+### Abstract
+
+Between 1893 and 1912, imports of Algerian wine quadrupled and discontent in France mounted. How did this Algerian shock reshape voting? We find that it pushed voting leftward. We interact département-level wine yields with this import surge to estimate the effect of trade exposure on commune-level election outcomes across six legislative elections. Exposed communes experienced a within-left substitution; the socialist vote share rose by 2 percentage points per standard deviation of exposure while the Radical share declined by a similar magnitude; the centre-right lost 5 to 6 percentage points; turnout increased.
+
+**Keywords:** import competition, political radicalisation, economic geography
+
+**JEL:** F14, D72, N43
+
+### How to cite
+
+Candau, F. and Lévêque, C. (2026). "Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914." Working paper.
+
+```bibtex
+@unpublished{CandauLeveque2026AlgerianWine,
+  author = {Candau, Fabien and L{\'e}v{\^e}que, Christophe},
+  title  = {Trade Competition and the Rise of the {French} Left: The {Algerian} Wine Shock, 1893--1914},
+  year   = {2026},
+  note   = {Working paper},
+  url    = {https://fcandau.github.io/Homepage/Papers/AlgerianWineShock.html}
+}
+```
