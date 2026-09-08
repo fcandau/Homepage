@@ -56,7 +56,7 @@ You can find my writings here.
 <li>
 R&amp;R at Ecological Economics: <strong>Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species</strong>
 <p class="coauthors">With Florian Lafferrere and Julie Schlick.</p>
-<p class="links"><a href="Research/BWE_IAS.pdf">Working paper</a></p>
+<p class="links"><a href="Papers/BallastWater.html">Abstract</a> | <a href="Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf">Working paper</a> | <a href="https://hal.science/hal-05655879">HAL</a></p>
 </li>
 <li>
 R&amp;R at Regional Science and Urban Economics: <strong>The Effect of High-Speed Internet on Working from Home</strong>

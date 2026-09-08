@@ -51,7 +51,7 @@ include-in-header:
 
 <p class="byline">Fabien Candau (UPPA, TREE) and Florian Lafferrere (UPPA, TREE). Working paper, 2026.</p>
 
-[PDF](../Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf) | [HAL (hal-05655884)](https://hal.science/hal-05655884) | [SSRN (earlier version, under the title "The Impact of International Trade on Maritime Ecosystems")](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4984367)
+[PDF](../Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf) | [HAL (hal-05655884)](https://hal.science/hal-05655884)
 
 ### Abstract
 

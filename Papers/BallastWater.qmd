@@ -1,0 +1,80 @@
+---
+title: ""
+pagetitle: "Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species — Candau, Lafferrere and Schlick"
+description: "Working paper by Fabien Candau, Florian Lafferrere and Julie Schlick on the transboundary ecological effects of the U.S. Ballast Water Management Act (2012), tracing organisms released during mid-ocean ballast exchange through ocean currents to Caribbean and Pacific coastlines."
+title-block-style: none
+include-in-header:
+  text: |
+    <meta name="citation_title" content="Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species">
+    <meta name="citation_author" content="Candau, Fabien">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_author" content="Lafferrere, Florian">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_author" content="Schlick, Julie">
+    <meta name="citation_author_institution" content="Université Paris-Saclay, RITM">
+    <meta name="citation_publication_date" content="2026">
+    <meta name="citation_online_date" content="2026/06/12">
+    <meta name="citation_technical_report_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_pdf_url" content="https://fcandau.github.io/Homepage/Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf">
+    <meta name="citation_abstract_html_url" content="https://fcandau.github.io/Homepage/Papers/BallastWater.html">
+    <meta name="citation_language" content="en">
+    <meta name="citation_keywords" content="introduced species; ballast water; environmental regulation; maritime trade; transboundary externalities">
+    <meta name="citation_abstract" content="We study the transboundary ecological incidence of the U.S. Ballast Water Management Act (2012), which requires vessels to exchange coastal ballast water in the open ocean before entering U.S. ports. Using particle tracking through ocean currents, we trace where organisms released during mid-ocean exchange drift along Caribbean and Pacific coastlines. Coastlines that receive more of those organisms record significantly more invasive species after 2012. We also find that more species arrive, more of them become common, and no single species dominates.">
+    <meta name="DC.title" content="Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species">
+    <meta name="DC.creator" content="Fabien Candau">
+    <meta name="DC.creator" content="Florian Lafferrere">
+    <meta name="DC.creator" content="Julie Schlick">
+    <meta name="DC.date" content="2026">
+    <meta name="DC.type" content="Text.WorkingPaper">
+    <meta name="DC.identifier" content="https://hal.science/hal-05655879">
+    <link rel="canonical" href="https://fcandau.github.io/Homepage/Papers/BallastWater.html">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species",
+      "name": "Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species",
+      "author": [
+        {"@type": "Person", "name": "Fabien Candau", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, TREE"}},
+        {"@type": "Person", "name": "Florian Lafferrere", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, TREE"}},
+        {"@type": "Person", "name": "Julie Schlick", "affiliation": {"@type": "Organization", "name": "Université Paris-Saclay, RITM"}}
+      ],
+      "datePublished": "2026",
+      "inLanguage": "en",
+      "genre": "Working paper",
+      "keywords": "introduced species, ballast water, environmental regulation, maritime trade, transboundary externalities",
+      "url": "https://fcandau.github.io/Homepage/Papers/BallastWater.html",
+      "sameAs": "https://hal.science/hal-05655879",
+      "encoding": {"@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": "https://fcandau.github.io/Homepage/Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf"},
+      "abstract": "We study the transboundary ecological incidence of the U.S. Ballast Water Management Act (2012), which requires vessels to exchange coastal ballast water in the open ocean before entering U.S. ports. Using particle tracking through ocean currents, we trace where organisms released during mid-ocean exchange drift along Caribbean and Pacific coastlines. Coastlines that receive more of those organisms record significantly more invasive species after 2012. We also find that more species arrive, more of them become common, and no single species dominates."
+    }
+    </script>
+---
+
+## Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species
+
+<p class="byline">Fabien Candau (UPPA, TREE), Florian Lafferrere (UPPA, TREE) and Julie Schlick (Université Paris-Saclay, RITM). Working paper, 2026. Revise and resubmit at <em>Ecological Economics</em>.</p>
+
+[PDF](../Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf) | [HAL (hal-05655879)](https://hal.science/hal-05655879)
+
+### Abstract
+
+We study the transboundary ecological incidence of the U.S. Ballast Water Management Act (2012), which requires vessels to exchange coastal ballast water in the open ocean before entering U.S. ports. Using particle tracking through ocean currents, we trace where organisms released during mid-ocean exchange drift along Caribbean and Pacific coastlines. Coastlines that receive more of those organisms record significantly more invasive species after 2012. We also find that more species arrive, more of them become common, and no single species dominates.
+
+**Keywords:** introduced species, ballast water, environmental regulation, maritime trade, transboundary externalities
+
+**JEL:** Q56, Q58, F18, R41
+
+### How to cite
+
+Candau, F., Lafferrere, F. and Schlick, J. (2026). "Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species." Working paper, HAL hal-05655879.
+
+```bibtex
+@unpublished{CandauLafferrereSchlick2026Ballast,
+  author = {Candau, Fabien and Lafferrere, Florian and Schlick, Julie},
+  title  = {Unintended Consequences of a Clean Regulation: How the {U.S.} Ballast Water Act Led to Transboundary Invasion of Alien Species},
+  year   = {2026},
+  note   = {Working paper, HAL hal-05655879},
+  url    = {https://hal.science/hal-05655879}
+}
+```

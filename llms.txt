@@ -18,7 +18,7 @@
 ## Working Papers (PDFs)
 
 - [The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests](Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf) — with F. Lafferrere. [Abstract page](Papers/KelpForests.html). HAL: https://hal.science/hal-05655884
-- [Invasive Species and Ballast Water From the United States](Research/BWE_IAS.pdf) — with F. Lafferrere and J. Schlick
+- [Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species](Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf) — with F. Lafferrere and J. Schlick. Revise and resubmit at Ecological Economics. [Abstract page](Papers/BallastWater.html). HAL: https://hal.science/hal-05655879
 - [The Effect of High-Speed Internet on Working from Home](Research/High_Speed_Internet_Remote_Work.pdf) — with L. Belloy and Y. Abdoulhazis-Oumarou
 - [Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture](Research/Adjust_L_Demand.pdf) — with L. Latruffe
 
