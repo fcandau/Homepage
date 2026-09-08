@@ -1,0 +1,76 @@
+---
+title: ""
+pagetitle: "The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests — Candau and Lafferrere"
+description: "Working paper by Fabien Candau and Florian Lafferrere on how California's 2009 Ocean-Going Vessel Fuel Rule and the 2011 boundary change affected kelp forests, using satellite kelp data and AIS vessel trajectories in a continuous difference-in-differences design."
+title-block-style: none
+include-in-header:
+  text: |
+    <meta name="citation_title" content="The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests">
+    <meta name="citation_author" content="Candau, Fabien">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_author" content="Lafferrere, Florian">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_publication_date" content="2026">
+    <meta name="citation_online_date" content="2026/06/12">
+    <meta name="citation_technical_report_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_pdf_url" content="https://fcandau.github.io/Homepage/Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf">
+    <meta name="citation_abstract_html_url" content="https://fcandau.github.io/Homepage/Papers/KelpForests.html">
+    <meta name="citation_language" content="en">
+    <meta name="citation_keywords" content="kelp forests; maritime regulation; emission control areas; difference-in-differences; ecosystem services; AIS; shipping behaviour">
+    <meta name="citation_abstract" content="This article examines how maritime regulation affects one of the most important aquatic ecosystems along the California coast: kelp forests. Combining satellite measures of kelp canopy and biomass with AIS vessel trajectories, we exploit variation in pre-policy shipping exposure across kelp cells. After California's Ocean-Going Vessel Fuel Rule (2009), kelp improves disproportionately where maritime traffic was highest, with estimated gains of approximately 15–17% per unit of log shipping exposure. Event studies show no differential pre-trends, with the treatment effect appearing sharply at implementation. We apply the same design to the 2011 boundary modification around the Channel Islands, which re-concentrated vessel traffic in specific corridors. Kelp declined most in the cells that had the highest pre-modification shipping exposure.">
+    <meta name="DC.title" content="The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests">
+    <meta name="DC.creator" content="Fabien Candau">
+    <meta name="DC.creator" content="Florian Lafferrere">
+    <meta name="DC.date" content="2026">
+    <meta name="DC.type" content="Text.WorkingPaper">
+    <meta name="DC.identifier" content="https://hal.science/hal-05655884">
+    <link rel="canonical" href="https://fcandau.github.io/Homepage/Papers/KelpForests.html">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests",
+      "name": "The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests",
+      "author": [
+        {"@type": "Person", "name": "Fabien Candau", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, TREE"}},
+        {"@type": "Person", "name": "Florian Lafferrere", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, TREE"}}
+      ],
+      "datePublished": "2026",
+      "inLanguage": "en",
+      "genre": "Working paper",
+      "keywords": "kelp forests, maritime regulation, emission control areas, difference-in-differences, ecosystem services, AIS, shipping behaviour",
+      "url": "https://fcandau.github.io/Homepage/Papers/KelpForests.html",
+      "sameAs": "https://hal.science/hal-05655884",
+      "encoding": {"@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": "https://fcandau.github.io/Homepage/Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf"},
+      "abstract": "This article examines how maritime regulation affects one of the most important aquatic ecosystems along the California coast: kelp forests. Combining satellite measures of kelp canopy and biomass with AIS vessel trajectories, we exploit variation in pre-policy shipping exposure across kelp cells. After California's Ocean-Going Vessel Fuel Rule (2009), kelp improves disproportionately where maritime traffic was highest, with estimated gains of approximately 15–17% per unit of log shipping exposure. Event studies show no differential pre-trends, with the treatment effect appearing sharply at implementation. We apply the same design to the 2011 boundary modification around the Channel Islands, which re-concentrated vessel traffic in specific corridors. Kelp declined most in the cells that had the highest pre-modification shipping exposure."
+    }
+    </script>
+---
+
+## The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests
+
+<p class="byline">Fabien Candau (UPPA, TREE) and Florian Lafferrere (UPPA, TREE). Working paper, 2026.</p>
+
+[PDF](../Research/Candau_Lafferrere_Shipping_Kelp_Forests.pdf) | [HAL (hal-05655884)](https://hal.science/hal-05655884) | [SSRN (earlier version, under the title "The Impact of International Trade on Maritime Ecosystems")](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4984367)
+
+### Abstract
+
+This article examines how maritime regulation affects one of the most important aquatic ecosystems along the California coast: kelp forests. Combining satellite measures of kelp canopy and biomass with AIS vessel trajectories, we exploit variation in pre-policy shipping exposure across kelp cells. After California's Ocean-Going Vessel Fuel Rule (2009), kelp improves disproportionately where maritime traffic was highest, with estimated gains of approximately 15–17% per unit of log shipping exposure. Event studies show no differential pre-trends, with the treatment effect appearing sharply at implementation. We apply the same design to the 2011 boundary modification around the Channel Islands, which re-concentrated vessel traffic in specific corridors. Kelp declined most in the cells that had the highest pre-modification shipping exposure.
+
+**Keywords:** kelp forests, maritime regulation, emission control areas, difference-in-differences, ecosystem services, AIS, shipping behaviour
+
+**JEL:** Q57, R41, F18
+
+### How to cite
+
+Candau, F. and Lafferrere, F. (2026). "The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests." Working paper, HAL hal-05655884.
+
+```bibtex
+@unpublished{CandauLafferrere2026Kelp,
+  author = {Candau, Fabien and Lafferrere, Florian},
+  title  = {The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests},
+  year   = {2026},
+  note   = {Working paper, HAL hal-05655884},
+  url    = {https://hal.science/hal-05655884}
+}
+```
