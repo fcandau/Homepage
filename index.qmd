@@ -44,7 +44,7 @@ You can find my writings here.
 <li>
 <strong>Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture</strong>
 <p class="coauthors">With Laure Latruffe.</p>
-<p class="links"><a href="Research/Adjust_L_Demand.pdf">Working paper</a></p>
+<p class="links">In progress</p>
 </li>
 </ul>
 </div>

@@ -21,8 +21,6 @@
 - [Unintended Consequences of a Clean Regulation: How the U.S. Ballast Water Act Led to Transboundary Invasion of Alien Species](Research/Candau_Lafferrere_Schlick_Ballast_Water_Invasive_Species.pdf) — with F. Lafferrere and J. Schlick. R&R at Ecological Economics. [Abstract page](Papers/BallastWater.html). HAL: https://hal.science/hal-05655879
 - [Trade Competition and the Rise of the French Left: The Algerian Wine Shock, 1893–1914](Research/Candau_Leveque_Algerian_Wine_Shock.pdf) — with C. Lévêque. [Abstract page](Papers/AlgerianWineShock.html)
 - [The Effect of High-Speed Internet on Working from Home](Research/High_Speed_Internet_Remote_Work.pdf) — with L. Belloy and Y. Abdoulhazis-Oumarou
-- [Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture](Research/Adjust_L_Demand.pdf) — with L. Latruffe
-
 ## Selected Published Articles (with detailed LLM guidance files)
 
 - Candau & Dienesch (2017). "Pollution Haven and Corruption Paradise." *JEEM*, 85, 171–192. DOI: 10.1016/j.jeem.2017.05.005 → [Detailed guidance for LLMs](Research/PHH_llms.txt)
