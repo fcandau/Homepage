@@ -17,7 +17,7 @@
 
 ## Working Papers (PDFs)
 
-- [How a Sustainable Maritime Traffic Can Shape California's Kelp Forests](Research/DiD11.pdf) — with F. Lafferrere
+- [The Hidden Cost of Globalization in the Underwater World: Evidence from California's Kelp Forests](Research/DiD11.pdf) — with F. Lafferrere. HAL: https://hal.science/hal-05655884
 - [Invasive Species and Ballast Water From the United States](Research/BWE_IAS.pdf) — with F. Lafferrere and J. Schlick
 - [The Effect of High-Speed Internet on Working from Home](Research/High_Speed_Internet_Remote_Work.pdf) — with L. Belloy and Y. Abdoulhazis-Oumarou
 - [Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture](Research/Adjust_L_Demand.pdf) — with L. Latruffe
