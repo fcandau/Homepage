@@ -31,7 +31,7 @@ Lecture slides:
 4. [La santé](https://fcandau.github.io/pol_soc_slides/chap4_slides.pdf)
 5. [Les politiques familiales](https://fcandau.github.io/pol_soc_slides/chap5_slides.pdf)
 6. [Le chômage et l'assurance chômage](https://fcandau.github.io/pol_soc_slides/chap6_slides.pdf)
-7. Pauvreté, inégalités et redistribution
+7. [Pauvreté, inégalités et redistribution](https://fcandau.github.io/pol_soc_slides/chap7_slides.pdf)
 8. Financer la protection sociale, du travail aux autres assiettes
 
 Autres cours :
