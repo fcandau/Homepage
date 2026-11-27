@@ -61,5 +61,6 @@ R&amp;R at Ecological Economics: <strong>Unintended Consequences of a Clean Regu
 <li>
 R&amp;R at Regional Science and Urban Economics: <strong>The Effect of High-Speed Internet on Working from Home</strong>
 <p class="coauthors">With Lauriane Belloy and Younoussa Abdoulhazis-Oumarou.</p>
+<p class="links"><a href="Papers/HighSpeedInternetWFH.html">Abstract</a> | <a href="Research/High_Speed_Internet_Remote_Work.pdf">Working paper</a></p>
 </li>
 </ul>

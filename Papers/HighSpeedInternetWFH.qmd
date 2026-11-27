@@ -1,0 +1,76 @@
+---
+title: ""
+pagetitle: "The Effect of High-Speed Internet on Working from Home — Abdoulhazis-Oumarou, Belloy and Candau"
+description: "Working paper by Younoussa Abdoulhazis-Oumarou, Lauriane Belloy and Fabien Candau on the effect of fiber deployment on telework and firm creation in French municipalities, with event studies and a quantitative spatial model."
+title-block-style: none
+include-in-header:
+  text: |
+    <meta name="citation_title" content="The Effect of High-Speed Internet on Working from Home">
+    <meta name="citation_author" content="Abdoulhazis-Oumarou, Younoussa">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, CNRS, TREE">
+    <meta name="citation_author" content="Belloy, Lauriane">
+    <meta name="citation_author_institution" content="ESPI, Nantes">
+    <meta name="citation_author" content="Candau, Fabien">
+    <meta name="citation_author_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_publication_date" content="2026">
+    <meta name="citation_online_date" content="2026/11/27">
+    <meta name="citation_technical_report_institution" content="Université de Pau et des Pays de l'Adour, TREE">
+    <meta name="citation_pdf_url" content="https://fcandau.github.io/Homepage/Research/High_Speed_Internet_Remote_Work.pdf">
+    <meta name="citation_abstract_html_url" content="https://fcandau.github.io/Homepage/Papers/HighSpeedInternetWFH.html">
+    <meta name="citation_language" content="en">
+    <meta name="citation_keywords" content="high-speed internet; fiber; telework; firm creation; quantitative spatial model">
+    <meta name="citation_abstract" content="Does fast internet, by enabling work from home, reshape where people work and where firms are created? Because French municipalities received fiber broadband in different years, we exploit the staggered timing in a difference-in-differences design to estimate how the arrival of fiber affects the share of teleworkers. We find that it increases this share by 4.45 percentage points and fosters firm creation in industry and business services by 5.4%. Based on these results, we develop a quantitative spatial model of French municipalities featuring commuting, residential choice, and telework, in which fiber both lowers the cost of working from home and raises firm productivity. In counterfactuals, all of the firm creation comes from the productivity channel; telework alone would reduce it, by dispersing residents and their demand. The aggregate welfare gain is 1.43%, which is mainly due to teleworking (two-thirds of that gain). Workers who can work from home capture more than four times the gain of those who cannot. Municipalities that were not connected decline as places, losing jobs, income, and land value, even as their residents gain as consumers.">
+    <meta name="DC.title" content="The Effect of High-Speed Internet on Working from Home">
+    <meta name="DC.creator" content="Younoussa Abdoulhazis-Oumarou">
+    <meta name="DC.creator" content="Lauriane Belloy">
+    <meta name="DC.creator" content="Fabien Candau">
+    <meta name="DC.date" content="2026">
+    <meta name="DC.type" content="Text.WorkingPaper">
+    <link rel="canonical" href="https://fcandau.github.io/Homepage/Papers/HighSpeedInternetWFH.html">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "The Effect of High-Speed Internet on Working from Home",
+      "name": "The Effect of High-Speed Internet on Working from Home",
+      "author": [
+        {"@type": "Person", "name": "Younoussa Abdoulhazis-Oumarou", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, CNRS, TREE"}},
+        {"@type": "Person", "name": "Lauriane Belloy", "affiliation": {"@type": "Organization", "name": "ESPI, Nantes"}},
+        {"@type": "Person", "name": "Fabien Candau", "affiliation": {"@type": "Organization", "name": "Université de Pau et des Pays de l'Adour, TREE"}}
+      ],
+      "datePublished": "2026",
+      "inLanguage": "en",
+      "genre": "Working paper",
+      "keywords": "high-speed internet, fiber, telework, firm creation, quantitative spatial model",
+      "url": "https://fcandau.github.io/Homepage/Papers/HighSpeedInternetWFH.html",
+      "encoding": {"@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": "https://fcandau.github.io/Homepage/Research/High_Speed_Internet_Remote_Work.pdf"},
+      "abstract": "Does fast internet, by enabling work from home, reshape where people work and where firms are created? Because French municipalities received fiber broadband in different years, we exploit the staggered timing in a difference-in-differences design to estimate how the arrival of fiber affects the share of teleworkers. We find that it increases this share by 4.45 percentage points and fosters firm creation in industry and business services by 5.4%. Based on these results, we develop a quantitative spatial model of French municipalities featuring commuting, residential choice, and telework, in which fiber both lowers the cost of working from home and raises firm productivity. In counterfactuals, all of the firm creation comes from the productivity channel; telework alone would reduce it, by dispersing residents and their demand. The aggregate welfare gain is 1.43%, which is mainly due to teleworking (two-thirds of that gain). Workers who can work from home capture more than four times the gain of those who cannot. Municipalities that were not connected decline as places, losing jobs, income, and land value, even as their residents gain as consumers."
+    }
+    </script>
+---
+
+## The Effect of High-Speed Internet on Working from Home
+
+<p class="byline">Younoussa Abdoulhazis-Oumarou (UPPA, CNRS, TREE), Lauriane Belloy (ESPI, Nantes) and Fabien Candau (UPPA, TREE). Working paper, November 2026. R&amp;R at <em>Regional Science and Urban Economics</em>.</p>
+
+[PDF](../Research/High_Speed_Internet_Remote_Work.pdf)
+
+### Abstract
+
+Does fast internet, by enabling work from home, reshape where people work and where firms are created? Because French municipalities received fiber broadband in different years, we exploit the staggered timing in a difference-in-differences design to estimate how the arrival of fiber affects the share of teleworkers. We find that it increases this share by 4.45 percentage points and fosters firm creation in industry and business services by 5.4%. Based on these results, we develop a quantitative spatial model of French municipalities featuring commuting, residential choice, and telework, in which fiber both lowers the cost of working from home and raises firm productivity. In counterfactuals, all of the firm creation comes from the productivity channel; telework alone would reduce it, by dispersing residents and their demand. The aggregate welfare gain is 1.43%, which is mainly due to teleworking (two-thirds of that gain). Workers who can work from home capture more than four times the gain of those who cannot. Municipalities that were not connected decline as places, losing jobs, income, and land value, even as their residents gain as consumers.
+
+**Keywords:** high-speed internet, fiber, telework, firm creation, quantitative spatial model
+
+### How to cite
+
+Abdoulhazis-Oumarou, Y., Belloy, L. and Candau, F. (2026). "The Effect of High-Speed Internet on Working from Home." Working paper.
+
+```bibtex
+@unpublished{AbdoulhazisBelloyCandau2026Fiber,
+  author = {Abdoulhazis-Oumarou, Younoussa and Belloy, Lauriane and Candau, Fabien},
+  title  = {The Effect of High-Speed Internet on Working from Home},
+  year   = {2026},
+  note   = {Working paper},
+  url    = {https://fcandau.github.io/Homepage/Papers/HighSpeedInternetWFH.html}
+}
+```
